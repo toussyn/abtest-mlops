@@ -3,7 +3,7 @@
 **Table of content**
 
  [A/B Hypothesis Testing](#A/B Hypothesis Testing)
- 
+
   - [Overview](#overview)
   - [Installation](#installation)
   - [Project Structure](#project-Structure)
@@ -43,7 +43,9 @@ This folder holds the data of the project
 
 ## Contact
 Zelalem Shiferaw - zelalemshiferaw71921@gmail.com
+
 Adijat Ojutomori - ojutomori@gmail.com
+
 MICHAEL GETACHEW - mikygetyos@gmail.com
 
 
