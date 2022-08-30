@@ -69,3 +69,28 @@ class dataInfo:
         all_cols = self.get_column_based_missing_percentage()
         extracted = all_cols['missing_percentage'].str.extract(r'(.+)%')
         return extracted[extracted[0].apply(lambda x: float(x) >= num)].index
+
+    def find_columns_with_missing_values(self):
+        '''
+            Returns the missing vlaue of the passed Dataframe
+        '''
+        lst = self.df.isnull().any()
+        arr = []
+        index = 0
+        for col in lst:
+            if col == True:
+                arr.append(lst.index[index])
+            index += 1
+        return arr
+
+    def find_column_based_missing_values(self):
+        '''
+            Returns the missing value of the passed dataframe
+        '''
+        value = self.df.isnull().sum()
+        df = pd.DataFrame(value, columns=['missing_count'])
+        df.drop(df[df['missing_count'] == 0].index, inplace=True)
+        df['type'] = [self.df.dtypes.loc[i] for i in df.index]
+        return df
+
+    
