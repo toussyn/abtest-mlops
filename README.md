@@ -1,8 +1,8 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-**Table of content**
+# A/B Hypothesis Testing
 
- [A/B Hypothesis Testing]( #A/B Hypothesis Testing)
+**Table of content**
   - [Overview](#overview)
   - [Installation](#installation)
   - [Project Structure](#project-Structure)
