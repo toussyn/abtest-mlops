@@ -61,3 +61,11 @@ class dataInfo:
         missing_df = pd.DataFrame(col_null, columns=['total_missing_values'])
         missing_df['missing_percentage'] = missing_percentage
         return missing_df
+
+    def find_columns_missing_percentage_greater_than(self, num: float):
+        '''
+            Returns the missing percentage of the passed Dataframe
+        '''
+        all_cols = self.get_column_based_missing_percentage()
+        extracted = all_cols['missing_percentage'].str.extract(r'(.+)%')
+        return extracted[extracted[0].apply(lambda x: float(x) >= num)].index
