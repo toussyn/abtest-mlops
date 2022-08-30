@@ -2,8 +2,7 @@
 
 **Table of content**
 
- [A/B Hypothesis Testing](#A/B Hypothesis Testing)
-
+ [A/B Hypothesis Testing]( #A/B Hypothesis Testing)
   - [Overview](#overview)
   - [Installation](#installation)
   - [Project Structure](#project-Structure)
