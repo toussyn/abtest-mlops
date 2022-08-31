@@ -6,6 +6,7 @@ dist/
 __pycache__/
 *.so
 *~
+notebooks/.ipynb_checkpoints
 
 # due to using tox and pytest
 .tox

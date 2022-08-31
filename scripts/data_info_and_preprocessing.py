@@ -31,13 +31,19 @@ class dataInfo:
         except:
             print("Failed to get aggregates")
 
+    def find_matrix_correlation(self):
+        '''
+            Returns the correlation matrix of the passed Dataframe
+        '''
+        return self.df.corr()
+
     def find_unique_value_count(self):
         """
             Returns the unique value count of the passed dataframe
         """
         return pd.DataFrame(self.df.apply(lambda x: len(x.value_counts(dropna=False)), axis=0), columns=['Unique Value Count']).sort_values(by='Unique Value Count', ascending=True)
 
-    def find_duplicates(self):
+    def find_duplicates(self, df):
         """
             Returns the duplicates of the passed dataframe
         """
