@@ -30,6 +30,12 @@ class dataInfo:
             return self.df.agg(stat_list)
         except:
             print("Failed to get aggregates")
+            
+    def find_matrix_correlation(self):
+        '''
+            Returns the correlation matrix of the passed Dataframe
+        '''
+        return self.df.corr()
 
     def find_unique_value_count(self):
         """
