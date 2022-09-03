@@ -1,0 +1,4 @@
+outs:
+- md5: d1d26c90decc63edc539586ad0cf70b1
+  size: 39128
+  path: brand_generic.csv
