@@ -1,2 +1,0 @@
-This file is just for the seek of pushing an empty folder to the remote git where the folder "scripts/" is created based on the template given for week 0. And after pusing this repository to git remote deleting this folder is not related to cause any problem.
--Michael Getachew
