@@ -1,0 +1,8 @@
+services:
+  streamlit:
+    container_name: "abtest-mlops"
+    build:
+      dockerfile: ./Dockerfile
+      context: ./
+    ports:
+      - 8080
