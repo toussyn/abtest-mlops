@@ -19,7 +19,7 @@ import io
 import mlflow
 import time
 
-from Scripts.clean_data import CleanDataFrame
+from scripts.clean_data import CleanDataFrame
 
 import matplotlib.pyplot as plt
 import pandas as pd

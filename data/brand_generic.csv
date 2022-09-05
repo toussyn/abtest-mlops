@@ -1,0 +1,796 @@
+,experiment,hour,platform_os,browser,day_of_week,brand,response
+0,exposed,2,6,Chrome Mobile WebView,Sunday,generic,0
+1,exposed,16,6,Chrome Mobile,Saturday,generic,1
+2,exposed,8,6,Chrome Mobile,Monday,generic,0
+4,control,15,6,Chrome Mobile,Friday,generic,0
+5,exposed,2,6,Chrome Mobile,Friday,generic,0
+6,control,15,6,Chrome Mobile,Friday,generic,1
+7,exposed,6,6,Chrome Mobile WebView,Sunday,generic,0
+8,control,15,6,Chrome Mobile,Friday,generic,0
+9,exposed,14,6,Chrome Mobile,Friday,generic,0
+10,control,15,6,Facebook,Friday,generic,0
+13,exposed,6,6,Chrome Mobile,Sunday,generic,1
+14,exposed,20,6,Chrome Mobile,Wednesday,generic,0
+16,control,16,6,Chrome Mobile,Saturday,generic,1
+18,exposed,8,6,Chrome Mobile,Thursday,generic,0
+21,exposed,19,6,Chrome Mobile,Sunday,generic,0
+22,exposed,5,6,Chrome Mobile,Friday,generic,0
+23,exposed,2,6,Chrome Mobile WebView,Sunday,generic,1
+24,control,15,6,Chrome Mobile,Tuesday,generic,1
+26,control,15,6,Facebook,Friday,generic,1
+27,exposed,1,6,Chrome Mobile,Thursday,generic,1
+28,control,18,6,Chrome Mobile,Wednesday,generic,1
+29,exposed,0,6,Chrome Mobile WebView,Sunday,generic,0
+31,control,19,6,Chrome Mobile,Saturday,generic,1
+32,control,22,6,Chrome Mobile,Wednesday,generic,0
+33,exposed,20,6,Chrome Mobile WebView,Wednesday,generic,1
+34,exposed,6,6,Chrome Mobile,Wednesday,generic,1
+35,control,15,6,Chrome Mobile,Friday,generic,1
+36,control,19,6,Chrome Mobile,Sunday,generic,0
+39,exposed,15,6,Chrome Mobile,Friday,generic,1
+40,exposed,20,6,Chrome Mobile,Wednesday,generic,1
+41,exposed,20,6,Chrome Mobile,Wednesday,generic,1
+42,exposed,19,6,Facebook,Thursday,generic,0
+43,control,15,6,Chrome Mobile,Friday,generic,0
+44,exposed,21,6,Chrome Mobile,Wednesday,generic,1
+45,exposed,21,6,Chrome Mobile,Sunday,generic,1
+48,control,15,6,Chrome Mobile,Friday,generic,0
+49,control,14,6,Chrome Mobile,Wednesday,generic,1
+50,exposed,22,6,Chrome Mobile,Wednesday,generic,0
+55,exposed,21,6,Chrome Mobile WebView,Wednesday,generic,0
+57,exposed,3,6,Chrome Mobile,Sunday,generic,1
+58,exposed,16,6,Chrome Mobile,Friday,generic,0
+61,control,15,6,Facebook,Friday,generic,0
+62,exposed,16,6,Chrome Mobile,Wednesday,generic,1
+63,control,2,6,Chrome Mobile,Thursday,generic,0
+64,control,15,6,Chrome Mobile,Friday,generic,1
+66,exposed,14,6,Chrome Mobile,Thursday,generic,0
+67,control,15,6,Facebook,Friday,generic,0
+68,exposed,8,6,Chrome Mobile,Thursday,generic,0
+71,control,15,6,Chrome Mobile,Friday,generic,0
+73,control,15,6,Chrome Mobile,Friday,generic,0
+74,control,0,6,Chrome Mobile,Sunday,generic,1
+75,control,12,6,Chrome Mobile,Thursday,generic,1
+76,control,15,6,Chrome Mobile,Sunday,generic,0
+77,exposed,14,6,Chrome Mobile WebView,Thursday,generic,1
+78,control,12,6,Chrome Mobile,Friday,generic,0
+81,exposed,10,6,Chrome Mobile,Friday,generic,0
+82,control,3,6,Chrome Mobile,Tuesday,generic,1
+86,control,9,6,Chrome Mobile,Friday,generic,0
+88,exposed,17,6,Chrome Mobile,Wednesday,generic,0
+89,exposed,9,6,Chrome Mobile WebView,Friday,generic,1
+90,control,15,6,Chrome Mobile,Friday,generic,0
+91,exposed,15,6,Chrome Mobile WebView,Wednesday,generic,1
+92,control,15,6,Chrome Mobile,Thursday,generic,0
+93,exposed,0,6,Chrome Mobile,Friday,generic,0
+94,exposed,17,6,Chrome Mobile,Friday,generic,1
+95,control,15,6,Chrome Mobile,Friday,generic,1
+96,control,15,6,Chrome Mobile,Friday,generic,0
+97,control,10,6,Chrome Mobile,Sunday,generic,0
+98,exposed,16,6,Chrome Mobile,Thursday,generic,0
+99,exposed,12,6,Chrome Mobile,Friday,generic,0
+100,exposed,19,6,Chrome Mobile,Thursday,generic,1
+102,exposed,9,6,Chrome Mobile,Saturday,generic,1
+104,exposed,11,6,Chrome Mobile WebView,Sunday,generic,0
+105,control,5,6,Chrome Mobile,Friday,generic,1
+107,control,15,6,Chrome Mobile,Friday,generic,0
+108,control,15,6,Facebook,Friday,generic,0
+109,exposed,10,6,Chrome Mobile,Saturday,generic,0
+111,exposed,6,6,Chrome Mobile WebView,Thursday,generic,0
+115,control,15,6,Chrome Mobile,Friday,generic,1
+116,exposed,1,6,Chrome Mobile,Friday,generic,0
+118,control,8,6,Chrome Mobile WebView,Tuesday,generic,0
+120,exposed,12,6,Facebook,Friday,generic,0
+122,exposed,19,6,Chrome Mobile,Sunday,generic,0
+123,control,14,6,Chrome Mobile,Thursday,generic,0
+124,control,15,6,Chrome Mobile,Friday,generic,1
+125,exposed,9,6,Chrome Mobile,Saturday,generic,0
+126,exposed,0,6,Chrome Mobile WebView,Monday,generic,1
+128,exposed,17,6,Chrome Mobile,Wednesday,generic,1
+130,control,10,6,Chrome Mobile,Thursday,generic,0
+131,exposed,3,6,Chrome Mobile,Monday,generic,0
+133,exposed,20,6,Chrome Mobile,Wednesday,generic,0
+134,control,16,6,Facebook,Tuesday,generic,0
+135,exposed,5,6,Facebook,Wednesday,generic,0
+138,exposed,23,6,Chrome Mobile,Tuesday,generic,1
+139,control,20,6,Chrome Mobile,Wednesday,generic,0
+141,exposed,8,6,Chrome Mobile,Sunday,generic,0
+143,control,16,6,Chrome Mobile,Wednesday,generic,1
+144,control,15,6,Chrome Mobile,Friday,generic,1
+146,exposed,16,6,Chrome Mobile,Saturday,generic,1
+150,exposed,13,6,Chrome Mobile,Thursday,generic,0
+152,control,4,6,Chrome Mobile,Sunday,generic,1
+153,exposed,8,6,Chrome Mobile,Thursday,generic,1
+156,exposed,16,6,Chrome Mobile,Wednesday,generic,0
+157,control,15,6,Chrome Mobile,Friday,generic,0
+158,exposed,0,6,Chrome Mobile,Friday,generic,1
+160,control,15,6,Chrome Mobile,Friday,generic,0
+167,exposed,16,6,Chrome Mobile,Saturday,generic,1
+168,control,15,6,Facebook,Friday,generic,0
+169,control,15,6,Chrome Mobile,Friday,generic,1
+170,control,15,6,Facebook,Friday,generic,1
+172,exposed,7,6,Chrome Mobile WebView,Friday,generic,0
+173,control,16,6,Chrome Mobile,Friday,generic,1
+174,exposed,9,6,Chrome Mobile WebView,Thursday,generic,0
+176,control,15,6,Chrome Mobile,Friday,generic,0
+177,exposed,5,6,Chrome Mobile,Thursday,generic,1
+178,exposed,7,6,Chrome Mobile,Sunday,generic,0
+179,exposed,2,6,Chrome Mobile,Saturday,generic,0
+180,exposed,6,6,Chrome Mobile,Saturday,generic,1
+182,exposed,22,6,Chrome Mobile,Thursday,generic,1
+185,control,15,6,Chrome Mobile,Friday,generic,1
+186,control,15,6,Chrome Mobile,Friday,generic,1
+187,exposed,4,6,Chrome Mobile WebView,Sunday,generic,0
+189,control,20,6,Chrome Mobile,Tuesday,generic,1
+193,control,15,6,Chrome Mobile,Friday,generic,0
+194,exposed,9,6,Chrome Mobile,Friday,generic,0
+195,control,6,6,Chrome Mobile,Thursday,generic,1
+196,control,22,6,Chrome Mobile,Thursday,generic,1
+200,exposed,20,6,Chrome Mobile,Wednesday,generic,1
+201,control,5,6,Chrome Mobile,Sunday,generic,0
+202,control,18,6,Chrome Mobile,Thursday,generic,0
+204,exposed,16,6,Chrome Mobile WebView,Sunday,generic,0
+205,exposed,6,6,Chrome Mobile,Thursday,generic,0
+206,control,9,6,Chrome Mobile,Friday,generic,1
+207,control,8,6,Chrome Mobile,Monday,generic,1
+208,control,15,6,Chrome Mobile,Friday,generic,0
+210,exposed,3,6,Chrome Mobile,Thursday,generic,1
+212,exposed,10,6,Chrome Mobile,Friday,generic,1
+213,exposed,14,6,Chrome Mobile,Saturday,generic,1
+215,exposed,15,6,Facebook,Wednesday,generic,0
+217,exposed,8,6,Chrome Mobile,Monday,generic,1
+219,exposed,1,6,Chrome Mobile,Friday,generic,0
+223,control,3,6,Chrome Mobile,Saturday,generic,0
+224,control,19,6,Chrome Mobile,Wednesday,generic,0
+225,exposed,15,6,Chrome Mobile,Wednesday,generic,1
+226,exposed,11,6,Chrome Mobile,Tuesday,generic,0
+227,exposed,9,6,Chrome Mobile,Thursday,generic,1
+228,exposed,14,6,Chrome Mobile,Thursday,generic,1
+229,control,9,6,Chrome Mobile,Saturday,generic,0
+230,control,6,6,Chrome Mobile,Saturday,generic,0
+231,control,2,6,Chrome Mobile,Saturday,generic,1
+232,control,3,6,Chrome Mobile,Friday,generic,0
+233,exposed,13,6,Facebook,Thursday,generic,0
+234,exposed,12,6,Chrome Mobile,Sunday,generic,0
+236,control,6,6,Chrome Mobile,Tuesday,generic,0
+237,control,15,6,Facebook,Friday,generic,1
+239,control,6,6,Chrome Mobile,Friday,generic,1
+241,exposed,19,6,Chrome Mobile,Saturday,generic,1
+242,exposed,9,6,Chrome Mobile,Friday,generic,1
+243,exposed,11,6,Chrome Mobile,Thursday,generic,0
+244,control,2,6,Facebook,Monday,generic,0
+247,exposed,3,6,Chrome Mobile,Monday,generic,0
+249,control,18,6,Chrome Mobile,Wednesday,generic,0
+251,control,18,6,Chrome Mobile,Wednesday,generic,0
+252,exposed,15,6,Chrome Mobile WebView,Wednesday,generic,0
+256,exposed,0,6,Chrome Mobile,Friday,generic,0
+257,control,5,6,Chrome Mobile,Sunday,generic,0
+258,exposed,6,6,Chrome Mobile WebView,Friday,generic,1
+259,exposed,1,6,Chrome Mobile,Monday,generic,0
+260,exposed,7,6,Chrome Mobile,Friday,generic,0
+261,control,14,6,Chrome Mobile,Saturday,generic,0
+263,exposed,7,6,Chrome Mobile,Friday,generic,0
+265,exposed,10,6,Chrome Mobile,Thursday,generic,1
+266,exposed,7,6,Chrome Mobile,Saturday,generic,0
+267,control,10,6,Facebook,Thursday,generic,0
+268,control,15,6,Facebook,Friday,generic,1
+269,control,8,6,Chrome Mobile,Thursday,generic,0
+270,control,10,6,Facebook,Friday,generic,0
+272,control,10,6,Chrome Mobile,Sunday,generic,1
+274,control,15,6,Chrome Mobile,Friday,generic,1
+278,exposed,17,6,Chrome Mobile,Sunday,generic,0
+279,exposed,14,6,Chrome Mobile,Saturday,generic,1
+280,control,10,6,Chrome Mobile,Tuesday,generic,0
+281,exposed,8,6,Chrome Mobile,Thursday,generic,0
+283,control,7,6,Chrome Mobile,Wednesday,generic,0
+284,exposed,21,6,Chrome Mobile WebView,Thursday,generic,1
+285,exposed,13,6,Chrome Mobile,Wednesday,generic,1
+286,control,8,6,Chrome Mobile,Saturday,generic,1
+287,exposed,5,6,Chrome Mobile,Thursday,generic,0
+288,exposed,19,6,Chrome Mobile,Wednesday,generic,0
+289,control,14,6,Chrome Mobile,Thursday,generic,0
+290,control,5,6,Chrome Mobile,Sunday,generic,0
+291,exposed,6,6,Chrome Mobile,Thursday,generic,1
+293,control,11,6,Chrome Mobile,Thursday,generic,1
+294,control,15,6,Chrome Mobile,Friday,generic,1
+296,exposed,10,6,Chrome Mobile,Saturday,generic,1
+298,exposed,10,6,Chrome Mobile,Sunday,generic,0
+300,exposed,18,6,Chrome Mobile,Wednesday,generic,0
+301,exposed,9,6,Chrome Mobile WebView,Friday,generic,0
+302,exposed,9,6,Chrome Mobile,Monday,generic,0
+303,exposed,3,6,Chrome Mobile WebView,Friday,generic,0
+304,control,12,6,Facebook,Friday,generic,1
+306,exposed,15,6,Facebook,Wednesday,generic,0
+309,exposed,2,6,Chrome Mobile WebView,Saturday,generic,0
+311,control,10,6,Chrome Mobile,Tuesday,generic,1
+314,control,15,6,Chrome Mobile,Friday,generic,0
+316,exposed,12,6,Chrome Mobile,Sunday,generic,0
+317,control,2,6,Chrome Mobile,Friday,generic,1
+318,control,15,6,Chrome Mobile,Friday,generic,0
+320,control,15,6,Chrome Mobile,Friday,generic,0
+321,control,15,6,Chrome Mobile,Friday,generic,1
+322,control,15,6,Chrome Mobile,Friday,generic,0
+323,control,2,6,Chrome Mobile,Wednesday,generic,0
+324,exposed,2,6,Chrome Mobile,Tuesday,generic,0
+325,exposed,8,6,Chrome Mobile WebView,Thursday,generic,0
+327,control,15,6,Facebook,Friday,generic,1
+328,exposed,8,6,Chrome Mobile,Saturday,generic,0
+329,exposed,16,6,Chrome Mobile WebView,Wednesday,generic,0
+330,control,4,6,Chrome Mobile,Friday,generic,1
+337,exposed,15,6,Chrome Mobile,Thursday,generic,0
+339,control,15,6,Chrome Mobile,Friday,generic,1
+340,exposed,0,6,Chrome Mobile,Sunday,generic,1
+341,control,0,6,Chrome Mobile,Thursday,generic,0
+342,exposed,0,6,Chrome Mobile,Thursday,generic,0
+343,exposed,11,6,Chrome Mobile,Friday,generic,0
+344,exposed,16,6,Chrome Mobile,Wednesday,generic,1
+346,exposed,4,6,Chrome Mobile WebView,Saturday,generic,0
+347,exposed,8,6,Chrome Mobile,Sunday,generic,0
+349,exposed,15,6,Chrome Mobile,Wednesday,generic,0
+350,exposed,3,6,Chrome Mobile,Friday,generic,0
+354,control,15,6,Chrome Mobile,Friday,generic,0
+355,exposed,7,6,Chrome Mobile,Friday,generic,1
+356,exposed,8,6,Chrome Mobile WebView,Thursday,generic,0
+359,exposed,8,6,Chrome Mobile,Friday,generic,0
+361,control,22,6,Chrome Mobile,Wednesday,generic,1
+362,control,17,6,Chrome Mobile,Tuesday,generic,1
+363,exposed,1,6,Chrome Mobile,Friday,generic,1
+364,exposed,3,6,Chrome Mobile,Saturday,generic,0
+367,exposed,11,6,Chrome Mobile,Thursday,generic,0
+368,exposed,17,6,Chrome Mobile,Wednesday,generic,1
+373,exposed,3,6,Chrome Mobile,Monday,generic,0
+375,control,19,6,Chrome Mobile,Saturday,generic,0
+376,control,15,6,Chrome Mobile,Friday,generic,0
+377,exposed,16,6,Chrome Mobile,Thursday,generic,0
+379,exposed,7,6,Chrome Mobile,Friday,generic,0
+381,exposed,16,6,Chrome Mobile,Thursday,generic,0
+382,control,15,6,Chrome Mobile,Friday,generic,0
+383,control,15,6,Chrome Mobile,Friday,generic,1
+386,exposed,6,6,Chrome Mobile,Monday,generic,1
+387,control,15,6,Chrome Mobile,Friday,generic,0
+388,exposed,10,6,Chrome Mobile,Monday,generic,1
+389,exposed,6,6,Chrome Mobile,Monday,generic,1
+390,exposed,5,6,Chrome Mobile WebView,Friday,generic,1
+391,control,15,6,Chrome Mobile,Friday,generic,0
+392,control,15,6,Chrome Mobile,Friday,generic,0
+394,exposed,13,6,Chrome Mobile,Sunday,generic,1
+395,control,3,6,Chrome Mobile,Tuesday,generic,0
+396,control,13,6,Chrome Mobile,Saturday,generic,0
+397,exposed,9,6,Chrome Mobile,Friday,generic,0
+398,control,0,6,Chrome Mobile WebView,Monday,generic,0
+399,exposed,11,6,Chrome Mobile,Sunday,generic,1
+400,exposed,12,6,Chrome Mobile,Thursday,generic,0
+401,control,14,6,Chrome Mobile,Wednesday,generic,0
+402,exposed,23,6,Chrome Mobile,Saturday,generic,1
+403,control,1,6,Chrome Mobile,Thursday,generic,1
+405,control,15,6,Chrome Mobile,Friday,generic,1
+406,exposed,14,6,Chrome Mobile,Friday,generic,0
+409,exposed,18,6,Chrome Mobile,Tuesday,generic,0
+410,exposed,14,6,Chrome Mobile,Wednesday,generic,1
+411,control,15,6,Chrome Mobile,Friday,generic,0
+412,control,11,6,Chrome Mobile,Sunday,generic,1
+413,control,15,6,Chrome Mobile,Friday,generic,1
+414,exposed,7,6,Chrome Mobile,Thursday,generic,1
+417,exposed,17,6,Chrome Mobile,Thursday,generic,0
+418,control,14,6,Chrome Mobile,Friday,generic,0
+420,exposed,15,6,Chrome Mobile,Wednesday,generic,1
+421,control,19,6,Chrome Mobile,Wednesday,generic,0
+422,control,15,6,Chrome Mobile,Friday,generic,1
+423,exposed,15,6,Chrome Mobile,Wednesday,generic,0
+424,exposed,9,6,Chrome Mobile,Tuesday,generic,1
+425,exposed,22,6,Chrome Mobile,Tuesday,generic,1
+428,control,9,6,Chrome Mobile,Thursday,generic,0
+430,control,3,6,Chrome Mobile,Saturday,generic,0
+431,exposed,18,6,Chrome Mobile,Wednesday,generic,0
+432,exposed,11,6,Chrome Mobile,Friday,generic,0
+434,control,15,6,Chrome Mobile,Friday,generic,1
+435,exposed,10,6,Chrome Mobile,Friday,generic,1
+438,exposed,16,6,Chrome Mobile,Saturday,generic,0
+440,exposed,8,6,Chrome Mobile,Friday,generic,1
+442,exposed,6,6,Chrome Mobile,Saturday,generic,1
+443,exposed,15,6,Chrome Mobile,Wednesday,generic,0
+444,exposed,6,6,Chrome Mobile,Sunday,generic,0
+445,exposed,14,6,Facebook,Saturday,generic,0
+446,exposed,10,6,Chrome Mobile,Saturday,generic,1
+447,exposed,9,6,Chrome Mobile,Monday,generic,0
+448,exposed,9,6,Chrome Mobile,Saturday,generic,1
+449,exposed,17,6,Chrome Mobile,Saturday,generic,0
+450,control,12,6,Chrome Mobile WebView,Saturday,generic,0
+452,exposed,16,6,Chrome Mobile,Friday,generic,0
+453,exposed,14,6,Chrome Mobile WebView,Tuesday,generic,0
+455,exposed,12,6,Chrome Mobile,Thursday,generic,1
+457,control,8,6,Chrome Mobile,Tuesday,generic,1
+458,exposed,19,6,Chrome Mobile,Saturday,generic,0
+459,control,15,6,Chrome Mobile,Friday,generic,0
+463,exposed,11,6,Chrome Mobile,Thursday,generic,0
+464,control,15,6,Chrome Mobile,Friday,generic,1
+465,exposed,8,6,Chrome Mobile,Friday,generic,1
+466,exposed,12,6,Chrome Mobile,Friday,generic,0
+471,control,15,6,Chrome Mobile,Friday,generic,0
+473,exposed,0,6,Chrome Mobile,Sunday,generic,0
+474,control,12,6,Chrome Mobile,Thursday,generic,1
+475,exposed,10,6,Chrome Mobile,Friday,generic,0
+476,exposed,11,6,Chrome Mobile,Friday,generic,0
+477,control,15,6,Chrome Mobile,Friday,generic,1
+478,control,15,6,Facebook,Friday,generic,1
+479,control,15,6,Chrome Mobile,Friday,generic,0
+480,exposed,8,6,Chrome Mobile,Friday,generic,0
+481,control,5,6,Chrome Mobile,Monday,generic,0
+482,control,15,6,Chrome Mobile,Friday,generic,0
+484,control,15,6,Chrome Mobile,Friday,generic,0
+486,exposed,4,6,Chrome Mobile,Saturday,generic,0
+487,exposed,18,6,Chrome Mobile,Wednesday,generic,1
+489,control,4,6,Chrome Mobile,Friday,generic,0
+491,control,15,6,Facebook,Friday,generic,0
+492,exposed,20,6,Chrome Mobile WebView,Wednesday,generic,1
+493,exposed,15,6,Chrome Mobile,Friday,generic,0
+494,exposed,8,6,Chrome Mobile,Friday,generic,0
+499,control,15,6,Chrome Mobile,Friday,generic,0
+501,exposed,4,6,Chrome Mobile,Monday,generic,1
+504,control,21,6,Chrome Mobile,Saturday,generic,1
+506,exposed,5,6,Chrome Mobile,Wednesday,generic,1
+507,control,15,6,Chrome Mobile,Friday,generic,1
+509,control,11,6,Chrome Mobile,Saturday,generic,1
+510,control,9,6,Chrome Mobile,Tuesday,generic,1
+512,control,15,6,Chrome Mobile,Friday,generic,1
+513,control,4,6,Chrome Mobile,Friday,generic,1
+514,exposed,11,6,Chrome Mobile,Sunday,generic,0
+516,exposed,10,6,Chrome Mobile,Sunday,generic,0
+517,control,6,6,Chrome Mobile,Saturday,generic,0
+520,control,15,6,Chrome Mobile,Friday,generic,1
+521,exposed,8,6,Chrome Mobile,Wednesday,generic,0
+522,exposed,4,6,Chrome Mobile,Monday,generic,1
+523,control,15,6,Chrome Mobile,Friday,generic,0
+526,control,2,6,Chrome Mobile,Saturday,generic,0
+527,control,15,6,Chrome Mobile,Friday,generic,0
+529,control,15,6,Chrome Mobile,Friday,generic,0
+531,exposed,11,6,Chrome Mobile,Friday,generic,0
+532,control,20,6,Chrome Mobile,Wednesday,generic,0
+533,exposed,6,6,Facebook,Saturday,generic,1
+534,control,20,6,Facebook,Wednesday,generic,0
+535,control,17,6,Facebook,Friday,generic,1
+536,control,5,6,Chrome Mobile,Tuesday,generic,0
+539,exposed,7,6,Chrome Mobile,Monday,generic,0
+540,exposed,4,6,Chrome Mobile,Friday,generic,1
+541,exposed,13,6,Chrome Mobile,Friday,generic,1
+542,exposed,15,6,Chrome Mobile,Saturday,generic,0
+544,control,15,6,Chrome Mobile,Friday,generic,1
+545,exposed,15,6,Chrome Mobile WebView,Saturday,generic,0
+546,exposed,7,6,Chrome Mobile,Thursday,generic,1
+548,control,14,6,Facebook,Sunday,generic,1
+549,exposed,8,6,Chrome Mobile,Monday,generic,0
+550,exposed,7,6,Chrome Mobile,Monday,generic,0
+551,control,22,6,Chrome Mobile WebView,Thursday,generic,1
+553,exposed,8,6,Chrome Mobile WebView,Saturday,generic,0
+554,control,16,6,Chrome Mobile,Friday,generic,0
+556,control,15,6,Chrome Mobile,Friday,generic,1
+561,control,10,6,Chrome Mobile,Monday,generic,1
+563,exposed,2,6,Chrome Mobile,Friday,generic,0
+564,control,2,6,Chrome Mobile,Thursday,generic,0
+565,exposed,22,6,Chrome Mobile,Tuesday,generic,1
+566,exposed,7,6,Chrome Mobile WebView,Friday,generic,1
+568,exposed,19,6,Chrome Mobile,Wednesday,generic,0
+571,exposed,0,6,Chrome Mobile,Friday,generic,1
+572,exposed,17,6,Chrome Mobile,Thursday,generic,1
+576,control,1,6,Facebook,Monday,generic,0
+578,control,5,6,Chrome Mobile,Saturday,generic,1
+579,control,13,6,Chrome Mobile,Tuesday,generic,0
+580,exposed,7,6,Chrome Mobile WebView,Sunday,generic,0
+582,control,5,6,Chrome Mobile WebView,Sunday,generic,0
+583,exposed,12,6,Chrome Mobile,Wednesday,generic,1
+584,control,17,6,Chrome Mobile,Thursday,generic,1
+586,control,9,6,Chrome Mobile,Saturday,generic,0
+587,control,18,6,Chrome Mobile,Wednesday,generic,0
+588,control,17,6,Chrome Mobile,Wednesday,generic,1
+591,exposed,18,6,Chrome Mobile,Thursday,generic,0
+593,control,21,6,Chrome Mobile,Sunday,generic,0
+594,control,15,6,Chrome Mobile,Wednesday,generic,1
+595,control,15,6,Chrome Mobile,Friday,generic,0
+596,exposed,9,6,Chrome Mobile,Tuesday,generic,1
+597,exposed,9,6,Chrome Mobile,Friday,generic,0
+598,control,0,6,Chrome Mobile,Tuesday,generic,0
+599,exposed,11,6,Chrome Mobile WebView,Thursday,generic,0
+603,control,15,6,Chrome Mobile,Sunday,generic,1
+604,exposed,13,6,Chrome Mobile,Wednesday,generic,0
+605,exposed,6,6,Chrome Mobile WebView,Saturday,generic,0
+606,control,7,6,Chrome Mobile,Friday,generic,0
+607,control,15,6,Chrome Mobile,Friday,generic,0
+609,exposed,14,6,Chrome Mobile,Thursday,generic,0
+610,control,19,6,Chrome Mobile,Wednesday,generic,1
+611,control,15,6,Chrome Mobile,Friday,generic,1
+612,exposed,6,6,Chrome Mobile,Sunday,generic,1
+613,control,15,6,Chrome Mobile,Friday,generic,0
+615,exposed,2,6,Chrome Mobile,Monday,generic,1
+616,exposed,14,6,Facebook,Friday,generic,1
+618,exposed,10,6,Chrome Mobile,Thursday,generic,0
+619,exposed,16,6,Chrome Mobile,Wednesday,generic,1
+620,exposed,3,6,Chrome Mobile,Wednesday,generic,0
+622,exposed,12,6,Chrome Mobile,Thursday,generic,0
+624,control,9,6,Chrome Mobile,Monday,generic,0
+626,control,20,6,Chrome Mobile,Thursday,generic,1
+627,exposed,7,6,Chrome Mobile,Friday,generic,0
+630,control,15,6,Chrome Mobile,Friday,generic,1
+631,exposed,16,6,Chrome Mobile,Sunday,generic,1
+632,exposed,15,6,Chrome Mobile,Friday,generic,1
+633,exposed,10,6,Chrome Mobile WebView,Monday,generic,1
+634,exposed,1,6,Chrome Mobile,Friday,generic,0
+635,exposed,9,6,Chrome Mobile WebView,Friday,generic,1
+637,exposed,14,6,Chrome Mobile,Saturday,generic,0
+639,exposed,14,6,Chrome Mobile,Saturday,generic,0
+642,exposed,5,6,Chrome Mobile,Thursday,generic,0
+643,exposed,1,6,Chrome Mobile,Friday,generic,0
+644,control,7,6,Chrome Mobile,Sunday,generic,1
+645,exposed,7,6,Chrome Mobile,Sunday,generic,0
+647,exposed,18,6,Chrome Mobile,Wednesday,generic,0
+649,exposed,20,6,Chrome Mobile,Wednesday,generic,1
+650,exposed,10,6,Chrome Mobile,Saturday,generic,0
+651,exposed,22,6,Chrome Mobile,Wednesday,generic,1
+654,control,21,6,Chrome Mobile,Thursday,generic,1
+655,exposed,4,6,Chrome Mobile,Tuesday,generic,0
+656,exposed,15,6,Chrome Mobile,Wednesday,generic,1
+659,exposed,5,6,Chrome Mobile,Friday,generic,1
+661,exposed,10,6,Chrome Mobile WebView,Friday,generic,0
+662,exposed,5,6,Chrome Mobile,Monday,generic,0
+663,exposed,10,6,Chrome Mobile WebView,Sunday,generic,0
+664,control,11,6,Chrome Mobile,Saturday,generic,0
+665,exposed,15,6,Chrome Mobile WebView,Thursday,generic,1
+666,exposed,15,6,Chrome Mobile,Friday,generic,1
+667,control,15,6,Chrome Mobile,Friday,generic,0
+668,exposed,1,6,Chrome Mobile,Monday,generic,0
+669,control,15,6,Chrome Mobile,Friday,generic,0
+670,exposed,4,6,Chrome Mobile,Sunday,generic,0
+671,control,15,6,Chrome Mobile,Friday,generic,0
+672,exposed,5,6,Chrome Mobile,Wednesday,generic,1
+673,exposed,14,6,Chrome Mobile,Wednesday,generic,1
+676,control,15,6,Chrome Mobile,Friday,generic,1
+677,control,10,6,Chrome Mobile WebView,Tuesday,generic,0
+679,control,15,6,Chrome Mobile,Friday,generic,1
+680,exposed,14,6,Chrome Mobile,Tuesday,generic,1
+681,exposed,1,6,Chrome Mobile,Thursday,generic,0
+682,exposed,4,6,Chrome Mobile,Monday,generic,0
+683,exposed,10,6,Chrome Mobile WebView,Saturday,generic,0
+685,control,4,6,Chrome Mobile,Tuesday,generic,0
+686,exposed,12,6,Chrome Mobile,Tuesday,generic,1
+687,control,20,6,Chrome Mobile,Wednesday,generic,0
+688,control,4,6,Chrome Mobile,Thursday,generic,1
+689,control,4,6,Chrome Mobile,Saturday,generic,0
+690,exposed,0,6,Chrome Mobile WebView,Friday,generic,1
+692,exposed,12,6,Chrome Mobile,Friday,generic,0
+694,control,14,6,Chrome Mobile,Thursday,generic,1
+698,control,7,6,Chrome Mobile WebView,Friday,generic,0
+700,exposed,21,6,Chrome Mobile,Tuesday,generic,0
+703,exposed,19,6,Chrome Mobile WebView,Wednesday,generic,0
+705,control,15,6,Facebook,Friday,generic,0
+706,exposed,6,6,Chrome Mobile,Saturday,generic,0
+708,exposed,11,6,Chrome Mobile,Saturday,generic,0
+714,exposed,20,6,Chrome Mobile,Tuesday,generic,1
+715,control,2,6,Chrome Mobile,Sunday,generic,0
+716,control,15,6,Chrome Mobile,Friday,generic,0
+717,exposed,4,6,Chrome Mobile,Sunday,generic,0
+718,exposed,19,6,Chrome Mobile,Saturday,generic,1
+719,control,17,6,Chrome Mobile,Saturday,generic,1
+721,exposed,7,6,Chrome Mobile,Friday,generic,0
+724,control,15,6,Chrome Mobile,Friday,generic,1
+725,exposed,2,6,Chrome Mobile,Friday,generic,0
+726,control,15,6,Chrome Mobile,Friday,generic,1
+727,control,1,6,Chrome Mobile,Thursday,generic,0
+728,control,1,6,Chrome Mobile,Thursday,generic,1
+729,exposed,5,6,Chrome Mobile,Tuesday,generic,0
+731,exposed,3,6,Chrome Mobile,Thursday,generic,0
+733,exposed,18,6,Chrome Mobile,Wednesday,generic,1
+735,exposed,20,6,Chrome Mobile,Wednesday,generic,1
+736,control,4,6,Chrome Mobile,Monday,generic,1
+737,exposed,20,6,Chrome Mobile,Wednesday,generic,0
+738,control,21,6,Chrome Mobile,Sunday,generic,1
+739,exposed,15,6,Chrome Mobile,Saturday,generic,0
+740,control,3,6,Chrome Mobile WebView,Friday,generic,0
+741,control,10,6,Chrome Mobile,Monday,generic,0
+742,control,15,6,Chrome Mobile,Friday,generic,1
+744,control,6,6,Chrome Mobile,Tuesday,generic,1
+746,control,15,6,Chrome Mobile,Friday,generic,1
+747,exposed,22,6,Chrome Mobile,Wednesday,generic,0
+749,exposed,20,6,Facebook,Thursday,generic,0
+750,exposed,11,6,Chrome Mobile,Saturday,generic,1
+751,exposed,23,6,Chrome Mobile,Thursday,generic,1
+752,control,7,6,Chrome Mobile,Monday,generic,0
+753,exposed,14,6,Chrome Mobile,Sunday,generic,1
+755,control,17,6,Chrome Mobile,Saturday,generic,0
+757,exposed,6,6,Chrome Mobile,Monday,generic,1
+758,control,18,6,Chrome Mobile,Wednesday,generic,0
+760,control,15,6,Chrome Mobile,Friday,generic,1
+764,control,9,6,Chrome Mobile,Friday,generic,1
+766,exposed,19,6,Chrome Mobile,Wednesday,generic,1
+768,control,12,6,Chrome Mobile,Sunday,generic,0
+770,exposed,3,6,Chrome Mobile,Friday,generic,1
+772,control,15,6,Chrome Mobile,Friday,generic,1
+773,exposed,19,6,Chrome Mobile,Tuesday,generic,1
+775,exposed,5,6,Chrome Mobile,Saturday,generic,1
+778,exposed,11,6,Chrome Mobile,Tuesday,generic,0
+779,exposed,4,6,Facebook,Friday,generic,0
+781,control,15,6,Chrome Mobile,Friday,generic,0
+782,control,8,6,Chrome Mobile,Saturday,generic,1
+783,exposed,13,6,Chrome Mobile WebView,Saturday,generic,1
+786,control,15,6,Chrome Mobile,Friday,generic,1
+787,exposed,4,6,Chrome Mobile,Wednesday,generic,1
+790,exposed,11,6,Facebook,Friday,generic,1
+791,exposed,18,6,Chrome Mobile,Thursday,generic,0
+792,control,11,6,Chrome Mobile,Friday,generic,0
+793,exposed,4,6,Chrome Mobile,Friday,generic,1
+794,exposed,12,6,Chrome Mobile,Friday,generic,0
+797,exposed,7,6,Chrome Mobile,Sunday,generic,0
+798,control,15,6,Chrome Mobile,Friday,generic,0
+801,control,21,6,Chrome Mobile,Tuesday,generic,0
+802,control,5,6,Chrome Mobile,Sunday,generic,1
+803,exposed,14,6,Chrome Mobile,Sunday,generic,1
+806,exposed,16,6,Chrome Mobile,Wednesday,generic,1
+809,exposed,15,6,Chrome Mobile,Wednesday,generic,1
+810,exposed,6,6,Chrome Mobile,Thursday,generic,0
+811,control,17,6,Chrome Mobile,Wednesday,generic,0
+815,exposed,12,6,Chrome Mobile,Thursday,generic,0
+816,control,15,6,Chrome Mobile,Friday,generic,1
+817,exposed,9,6,Facebook,Tuesday,generic,0
+818,exposed,17,6,Chrome Mobile,Wednesday,generic,0
+819,exposed,11,6,Chrome Mobile,Thursday,generic,1
+820,exposed,13,6,Chrome Mobile,Saturday,generic,0
+821,control,21,6,Chrome Mobile,Tuesday,generic,1
+823,exposed,21,6,Chrome Mobile,Wednesday,generic,0
+824,exposed,5,6,Chrome Mobile,Friday,generic,0
+825,exposed,17,6,Chrome Mobile,Wednesday,generic,0
+827,exposed,16,6,Chrome Mobile,Wednesday,generic,1
+830,exposed,7,6,Chrome Mobile,Wednesday,generic,1
+831,control,13,6,Chrome Mobile,Friday,generic,0
+832,exposed,12,6,Chrome Mobile,Saturday,generic,0
+833,exposed,6,6,Chrome Mobile WebView,Tuesday,generic,1
+834,exposed,5,6,Chrome Mobile,Sunday,generic,1
+837,control,15,6,Chrome Mobile WebView,Friday,generic,0
+842,control,4,6,Chrome Mobile,Monday,generic,0
+843,exposed,2,6,Chrome Mobile,Friday,generic,1
+845,exposed,15,6,Chrome Mobile,Wednesday,generic,1
+848,exposed,13,6,Chrome Mobile,Saturday,generic,1
+849,exposed,12,6,Chrome Mobile,Tuesday,generic,0
+850,exposed,2,6,Chrome Mobile,Friday,generic,1
+851,exposed,20,6,Chrome Mobile,Wednesday,generic,1
+852,control,15,6,Chrome Mobile,Friday,generic,0
+853,exposed,21,6,Chrome Mobile,Thursday,generic,0
+854,control,15,6,Chrome Mobile,Friday,generic,1
+855,exposed,3,6,Chrome Mobile,Thursday,generic,1
+856,exposed,7,6,Chrome Mobile WebView,Friday,generic,1
+859,exposed,20,6,Chrome Mobile,Wednesday,generic,1
+862,control,18,6,Chrome Mobile,Thursday,generic,0
+863,control,15,6,Chrome Mobile,Friday,generic,0
+865,exposed,13,6,Chrome Mobile,Friday,generic,1
+866,exposed,19,6,Chrome Mobile,Wednesday,generic,0
+867,control,14,6,Chrome Mobile,Tuesday,generic,0
+869,exposed,6,6,Chrome Mobile,Friday,generic,1
+870,control,15,6,Chrome Mobile,Friday,generic,0
+873,exposed,18,6,Chrome Mobile,Sunday,generic,1
+877,exposed,10,6,Chrome Mobile,Thursday,generic,0
+879,exposed,0,6,Chrome Mobile,Wednesday,generic,0
+880,control,13,6,Chrome Mobile,Wednesday,generic,1
+881,control,15,6,Chrome Mobile,Friday,generic,0
+884,control,15,6,Chrome Mobile,Friday,generic,0
+886,exposed,2,6,Chrome Mobile,Friday,generic,1
+888,exposed,0,6,Chrome Mobile,Friday,generic,0
+889,control,13,6,Chrome Mobile,Tuesday,generic,1
+891,control,12,6,Chrome Mobile,Thursday,generic,0
+892,exposed,17,6,Chrome Mobile,Saturday,generic,0
+893,exposed,6,6,Chrome Mobile,Friday,generic,1
+896,exposed,4,6,Chrome Mobile,Sunday,generic,0
+897,exposed,5,6,Chrome Mobile,Wednesday,generic,0
+899,control,3,6,Chrome Mobile,Sunday,generic,1
+901,exposed,16,6,Chrome Mobile,Wednesday,generic,1
+902,exposed,8,6,Chrome Mobile,Thursday,generic,1
+903,control,15,6,Chrome Mobile,Friday,generic,1
+904,control,15,6,Chrome Mobile,Friday,generic,0
+906,exposed,15,6,Chrome Mobile,Sunday,generic,1
+907,exposed,9,6,Chrome Mobile,Monday,generic,1
+908,control,6,6,Chrome Mobile,Thursday,generic,0
+910,control,15,6,Chrome Mobile,Friday,generic,1
+911,control,1,6,Chrome Mobile,Saturday,generic,0
+913,exposed,19,6,Chrome Mobile,Wednesday,generic,1
+914,control,20,6,Chrome Mobile,Saturday,generic,1
+915,exposed,13,6,Chrome Mobile,Thursday,generic,0
+916,exposed,22,6,Chrome Mobile,Wednesday,generic,0
+917,exposed,9,6,Chrome Mobile,Thursday,generic,0
+918,exposed,15,6,Chrome Mobile,Friday,generic,0
+920,control,15,6,Chrome Mobile,Friday,generic,0
+921,exposed,4,6,Chrome Mobile,Monday,generic,1
+924,exposed,10,6,Chrome Mobile,Tuesday,generic,1
+925,control,11,6,Chrome Mobile,Saturday,generic,1
+926,exposed,20,6,Chrome Mobile,Thursday,generic,1
+928,exposed,2,6,Facebook,Saturday,generic,1
+929,exposed,20,6,Chrome Mobile,Wednesday,generic,1
+931,control,10,6,Facebook,Saturday,generic,0
+933,control,12,6,Chrome Mobile,Saturday,generic,0
+934,control,15,6,Chrome Mobile,Friday,generic,0
+935,exposed,7,6,Chrome Mobile,Saturday,generic,1
+936,control,19,6,Chrome Mobile,Wednesday,generic,0
+938,control,19,6,Chrome Mobile,Tuesday,generic,1
+940,control,17,6,Chrome Mobile,Thursday,generic,0
+941,control,15,6,Chrome Mobile,Friday,generic,0
+942,exposed,9,6,Chrome Mobile WebView,Thursday,generic,1
+945,control,15,6,Chrome Mobile,Friday,generic,0
+946,control,3,6,Chrome Mobile,Friday,generic,0
+947,control,15,6,Chrome Mobile,Friday,generic,1
+948,control,15,6,Chrome Mobile,Friday,generic,0
+949,control,16,6,Chrome Mobile,Wednesday,generic,1
+950,exposed,3,6,Chrome Mobile,Friday,generic,0
+952,exposed,13,6,Chrome Mobile WebView,Tuesday,generic,1
+954,exposed,9,6,Facebook,Friday,generic,1
+956,exposed,3,6,Chrome Mobile,Friday,generic,0
+959,control,18,6,Chrome Mobile,Sunday,generic,0
+960,exposed,12,6,Chrome Mobile,Sunday,generic,1
+961,exposed,22,6,Chrome Mobile,Wednesday,generic,0
+962,control,8,6,Chrome Mobile,Thursday,generic,0
+965,control,4,6,Chrome Mobile,Sunday,generic,0
+966,control,5,6,Chrome Mobile,Wednesday,generic,0
+967,exposed,7,6,Chrome Mobile,Friday,generic,1
+968,control,10,6,Chrome Mobile,Monday,generic,1
+969,control,21,6,Chrome Mobile,Wednesday,generic,1
+972,exposed,9,6,Chrome Mobile WebView,Tuesday,generic,1
+974,control,1,6,Facebook,Friday,generic,1
+975,control,13,6,Chrome Mobile,Saturday,generic,0
+977,exposed,9,6,Chrome Mobile,Friday,generic,0
+978,exposed,6,6,Chrome Mobile,Monday,generic,1
+980,control,19,6,Chrome Mobile,Thursday,generic,0
+983,exposed,6,6,Facebook,Friday,generic,0
+984,exposed,13,6,Chrome Mobile,Friday,generic,1
+985,exposed,3,6,Chrome Mobile,Saturday,generic,0
+989,control,20,6,Chrome Mobile,Wednesday,generic,1
+990,control,23,6,Facebook,Wednesday,generic,1
+991,control,15,6,Chrome Mobile,Friday,generic,0
+992,control,15,6,Chrome Mobile,Friday,generic,0
+993,exposed,11,6,Chrome Mobile,Friday,generic,0
+994,exposed,20,6,Chrome Mobile WebView,Saturday,generic,1
+995,control,15,6,Chrome Mobile,Friday,generic,0
+998,control,15,6,Chrome Mobile,Wednesday,generic,0
+999,control,15,6,Chrome Mobile,Friday,generic,0
+1000,control,9,6,Chrome Mobile,Sunday,generic,1
+1003,exposed,21,6,Chrome Mobile,Thursday,generic,0
+1004,control,17,6,Chrome Mobile,Sunday,generic,0
+1006,exposed,7,6,Chrome Mobile,Saturday,generic,0
+1008,control,15,6,Chrome Mobile,Friday,generic,0
+1009,control,12,6,Chrome Mobile,Thursday,generic,1
+1011,exposed,6,6,Chrome Mobile,Sunday,generic,1
+1012,exposed,18,6,Chrome Mobile,Thursday,generic,1
+1013,exposed,0,6,Chrome Mobile WebView,Friday,generic,1
+1014,exposed,20,6,Chrome Mobile,Thursday,generic,1
+1016,control,16,6,Chrome Mobile,Sunday,generic,1
+1017,control,9,6,Chrome Mobile,Saturday,generic,1
+1018,exposed,15,6,Facebook,Wednesday,generic,0
+1019,exposed,10,6,Chrome Mobile,Saturday,generic,0
+1020,control,9,6,Chrome Mobile,Tuesday,generic,1
+1021,control,4,6,Chrome Mobile,Thursday,generic,0
+1026,control,15,6,Chrome Mobile,Friday,generic,0
+1027,control,15,6,Chrome Mobile,Friday,generic,1
+1028,exposed,14,6,Chrome Mobile,Friday,generic,1
+1031,control,10,6,Chrome Mobile,Tuesday,generic,0
+1032,exposed,10,6,Chrome Mobile,Monday,generic,0
+1033,exposed,7,6,Chrome Mobile WebView,Saturday,generic,1
+1034,exposed,16,6,Chrome Mobile,Wednesday,generic,0
+1035,exposed,11,6,Chrome Mobile,Thursday,generic,0
+1036,exposed,22,6,Chrome Mobile,Thursday,generic,0
+1042,control,15,6,Chrome Mobile,Friday,generic,1
+1045,exposed,3,6,Chrome Mobile,Monday,generic,1
+1048,control,16,6,Chrome Mobile,Thursday,generic,1
+1049,control,20,6,Chrome Mobile,Saturday,generic,0
+1050,exposed,7,6,Chrome Mobile,Tuesday,generic,1
+1052,exposed,8,6,Chrome Mobile,Tuesday,generic,0
+1056,control,12,6,Facebook,Saturday,generic,0
+1057,exposed,18,6,Chrome Mobile,Wednesday,generic,1
+1058,exposed,8,6,Chrome Mobile,Friday,generic,1
+1059,control,10,6,Chrome Mobile,Wednesday,generic,1
+1061,exposed,20,6,Chrome Mobile,Saturday,generic,1
+1062,exposed,9,6,Chrome Mobile,Monday,generic,1
+1064,control,11,6,Chrome Mobile,Saturday,generic,1
+1065,control,15,6,Chrome Mobile,Friday,generic,1
+1066,control,4,6,Chrome Mobile,Saturday,generic,1
+1068,control,21,6,Chrome Mobile WebView,Wednesday,generic,1
+1070,control,20,6,Facebook,Saturday,generic,0
+1071,control,15,6,Chrome Mobile,Friday,generic,1
+1072,exposed,18,6,Chrome Mobile,Thursday,generic,0
+1076,control,21,6,Chrome Mobile,Wednesday,generic,1
+1077,control,16,6,Chrome Mobile,Saturday,generic,1
+1078,control,5,6,Chrome Mobile,Friday,generic,0
+1081,control,21,6,Chrome Mobile,Wednesday,generic,1
+1082,control,6,6,Chrome Mobile,Friday,generic,1
+1084,control,5,6,Chrome Mobile,Sunday,generic,0
+1085,exposed,18,6,Chrome Mobile,Saturday,generic,1
+1089,exposed,19,6,Chrome Mobile WebView,Wednesday,generic,0
+1091,control,15,6,Chrome Mobile,Friday,generic,0
+1093,control,9,6,Facebook,Thursday,generic,1
+1094,exposed,8,6,Chrome Mobile,Sunday,generic,0
+1095,exposed,18,6,Facebook,Wednesday,generic,0
+1096,control,7,6,Chrome Mobile,Tuesday,generic,1
+1098,control,14,6,Chrome Mobile,Saturday,generic,0
+1099,control,15,6,Chrome Mobile,Friday,generic,0
+1101,control,15,6,Chrome Mobile,Friday,generic,0
+1102,exposed,7,6,Chrome Mobile,Wednesday,generic,1
+1103,control,15,6,Chrome Mobile,Friday,generic,0
+1104,exposed,23,6,Chrome Mobile,Thursday,generic,1
+1106,exposed,20,6,Chrome Mobile,Thursday,generic,1
+1107,control,15,6,Chrome Mobile,Friday,generic,1
+1112,exposed,15,6,Chrome Mobile,Saturday,generic,0
+1113,exposed,5,6,Chrome Mobile,Monday,generic,0
+1116,exposed,6,6,Chrome Mobile,Thursday,generic,0
+1117,exposed,8,6,Chrome Mobile,Friday,generic,1
+1118,control,15,6,Chrome Mobile WebView,Friday,generic,0
+1119,exposed,6,6,Chrome Mobile,Monday,generic,0
+1120,control,21,6,Chrome Mobile,Thursday,generic,0
+1121,exposed,11,6,Chrome Mobile,Friday,generic,0
+1123,control,5,6,Chrome Mobile,Sunday,generic,0
+1125,control,15,6,Chrome Mobile,Friday,generic,0
+1126,exposed,7,6,Chrome Mobile,Friday,generic,1
+1127,control,14,6,Facebook,Friday,generic,0
+1129,control,8,6,Chrome Mobile,Monday,generic,1
+1130,exposed,1,6,Chrome Mobile,Friday,generic,0
+1135,exposed,9,6,Chrome Mobile,Sunday,generic,0
+1137,exposed,13,6,Chrome Mobile WebView,Friday,generic,0
+1138,control,15,6,Chrome Mobile,Friday,generic,0
+1141,control,14,6,Chrome Mobile,Wednesday,generic,0
+1143,exposed,3,6,Chrome Mobile,Sunday,generic,1
+1144,control,15,6,Facebook,Friday,generic,1
+1145,exposed,21,6,Chrome Mobile,Thursday,generic,1
+1146,exposed,4,6,Chrome Mobile,Friday,generic,1
+1147,exposed,12,6,Chrome Mobile,Friday,generic,0
+1148,exposed,8,6,Chrome Mobile,Saturday,generic,0
+1150,exposed,4,6,Chrome Mobile,Friday,generic,0
+1151,control,21,6,Chrome Mobile,Wednesday,generic,1
+1152,exposed,22,6,Chrome Mobile,Tuesday,generic,0
+1153,exposed,17,6,Chrome Mobile,Thursday,generic,1
+1156,exposed,9,6,Chrome Mobile,Thursday,generic,1
+1158,control,15,6,Facebook,Friday,generic,1
+1159,control,15,6,Facebook,Wednesday,generic,1
+1161,exposed,5,6,Facebook,Monday,generic,0
+1162,control,20,6,Facebook,Thursday,generic,0
+1163,exposed,13,6,Facebook,Saturday,generic,1
+1164,exposed,21,6,Chrome Mobile WebView,Thursday,generic,1
+1166,control,15,6,Chrome Mobile,Friday,generic,1
+1169,exposed,6,6,Chrome Mobile,Saturday,generic,0
+1170,exposed,7,6,Chrome Mobile,Friday,generic,0
+1172,control,15,6,Chrome Mobile,Friday,generic,0
+1173,exposed,8,6,Chrome Mobile,Thursday,generic,1
+1174,control,15,6,Chrome Mobile,Friday,generic,0
+1176,exposed,13,6,Chrome Mobile,Thursday,generic,1
+1177,control,15,6,Chrome Mobile,Friday,generic,0
+1178,exposed,15,6,Chrome Mobile,Wednesday,generic,0
+1179,control,20,6,Chrome Mobile,Wednesday,generic,0
+1181,exposed,3,6,Chrome Mobile,Friday,generic,0
+1183,exposed,9,6,Facebook,Friday,generic,0
+1185,exposed,14,6,Chrome Mobile WebView,Wednesday,generic,0
+1187,exposed,1,6,Chrome Mobile,Saturday,generic,1
+1196,exposed,4,6,Chrome Mobile,Monday,generic,1
+1198,exposed,5,6,Chrome Mobile,Friday,generic,0
+1199,control,15,6,Facebook,Friday,generic,0
+1200,control,15,6,Chrome Mobile,Friday,generic,1
+1202,exposed,0,6,Chrome Mobile,Friday,generic,0
+1204,control,15,6,Chrome Mobile,Friday,generic,0
+1205,exposed,14,6,Chrome Mobile,Thursday,generic,0
+1206,control,1,6,Chrome Mobile,Tuesday,generic,0
+1208,control,16,6,Chrome Mobile,Tuesday,generic,0
+1209,exposed,19,6,Chrome Mobile,Wednesday,generic,0
+1210,control,5,6,Chrome Mobile,Monday,generic,1
+1211,exposed,8,6,Chrome Mobile,Friday,generic,0
+1213,exposed,3,6,Chrome Mobile,Sunday,generic,0
+1214,control,15,6,Chrome Mobile,Friday,generic,1
+1216,exposed,13,6,Chrome Mobile WebView,Saturday,generic,1
+1217,exposed,6,6,Chrome Mobile,Friday,generic,0
+1218,control,15,6,Chrome Mobile,Friday,generic,1
+1219,control,8,6,Facebook,Thursday,generic,0
+1220,exposed,11,6,Chrome Mobile,Friday,generic,0
+1221,control,15,6,Chrome Mobile,Friday,generic,1
+1223,exposed,6,6,Chrome Mobile WebView,Saturday,generic,1
+1226,control,15,6,Chrome Mobile,Friday,generic,1
+1227,control,3,6,Chrome Mobile,Sunday,generic,0
+1228,control,15,6,Chrome Mobile,Friday,generic,0
+1229,control,4,6,Chrome Mobile,Sunday,generic,0
+1231,control,4,6,Chrome Mobile,Saturday,generic,0
+1233,exposed,4,6,Chrome Mobile WebView,Thursday,generic,1
+1234,control,1,6,Chrome Mobile,Friday,generic,1
+1235,exposed,14,6,Chrome Mobile,Thursday,generic,1
+1237,exposed,18,6,Chrome Mobile,Thursday,generic,0
+1238,exposed,21,6,Chrome Mobile,Sunday,generic,1
+1239,exposed,1,6,Chrome Mobile,Saturday,generic,1
+1240,control,7,6,Chrome Mobile,Thursday,generic,0
+1241,control,16,6,Chrome Mobile,Friday,generic,0
+1242,exposed,4,6,Chrome Mobile,Friday,generic,0

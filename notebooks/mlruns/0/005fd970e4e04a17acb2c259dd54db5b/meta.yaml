@@ -1,0 +1,16 @@
+artifact_uri: file:///home/zelax/10Accademy/abtest-mlops/notebooks/mlruns/0/005fd970e4e04a17acb2c259dd54db5b/artifacts
+deleted_time: null
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 005fd970e4e04a17acb2c259dd54db5b
+run_uuid: 005fd970e4e04a17acb2c259dd54db5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1662394619871
+status: 1
+tags: []
+user_id: zelax

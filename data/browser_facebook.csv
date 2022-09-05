@@ -1,0 +1,157 @@
+,experiment,hour,platform_os,browser,day_of_week,brand,response
+0,control,4,6,Facebook,Wednesday,known brand,1
+1,control,15,6,Facebook,Friday,generic,0
+2,exposed,13,6,Facebook,Thursday,known brand,1
+3,control,20,6,Facebook,Thursday,known brand,1
+4,control,15,6,Facebook,Friday,known brand,0
+5,control,15,6,Facebook,Friday,generic,1
+6,exposed,6,6,Facebook,Sunday,known brand,0
+7,exposed,19,6,Facebook,Thursday,generic,0
+8,control,10,6,Facebook,Sunday,known brand,1
+9,control,8,6,Facebook,Monday,known brand,0
+10,exposed,2,6,Facebook,Friday,known brand,0
+11,control,15,6,Facebook,Friday,generic,0
+12,control,15,6,Facebook,Friday,generic,0
+13,control,21,6,Facebook,Saturday,known brand,0
+14,control,22,6,Facebook,Wednesday,known brand,1
+15,control,15,6,Facebook,Friday,known brand,1
+16,control,15,6,Facebook,Friday,known brand,1
+17,control,15,6,Facebook,Friday,generic,0
+18,exposed,12,6,Facebook,Friday,generic,0
+19,exposed,7,6,Facebook,Monday,known brand,0
+20,control,16,6,Facebook,Tuesday,generic,0
+21,exposed,5,6,Facebook,Wednesday,generic,0
+22,control,15,6,Facebook,Friday,known brand,1
+23,control,4,6,Facebook,Sunday,known brand,0
+24,control,15,6,Facebook,Friday,generic,0
+25,control,15,6,Facebook,Friday,generic,1
+26,control,7,6,Facebook,Friday,known brand,0
+27,exposed,7,6,Facebook,Thursday,known brand,1
+28,control,15,6,Facebook,Friday,known brand,0
+29,exposed,15,6,Facebook,Wednesday,generic,0
+30,control,15,6,Facebook,Friday,known brand,0
+31,control,15,6,Facebook,Friday,known brand,1
+32,control,15,6,Facebook,Friday,known brand,1
+33,exposed,13,6,Facebook,Thursday,generic,0
+34,control,15,6,Facebook,Friday,generic,1
+35,control,2,6,Facebook,Monday,generic,0
+36,control,3,6,Facebook,Tuesday,known brand,0
+37,control,15,6,Facebook,Friday,known brand,1
+38,control,10,6,Facebook,Thursday,generic,0
+39,control,15,6,Facebook,Friday,generic,1
+40,control,10,6,Facebook,Friday,generic,0
+41,control,15,6,Facebook,Friday,known brand,1
+42,control,20,6,Facebook,Saturday,known brand,1
+43,exposed,13,6,Facebook,Saturday,known brand,0
+44,control,8,6,Facebook,Saturday,known brand,0
+45,control,12,6,Facebook,Friday,generic,1
+46,exposed,15,6,Facebook,Wednesday,generic,0
+47,control,19,6,Facebook,Thursday,known brand,0
+48,control,15,6,Facebook,Friday,generic,1
+49,exposed,10,6,Facebook,Thursday,known brand,0
+50,control,15,6,Facebook,Friday,known brand,1
+51,control,21,6,Facebook,Wednesday,known brand,1
+52,control,15,6,Facebook,Friday,known brand,0
+53,control,7,6,Facebook,Thursday,known brand,0
+54,exposed,18,6,Facebook,Wednesday,known brand,0
+55,control,15,6,Facebook,Friday,known brand,0
+56,control,8,6,Facebook,Wednesday,known brand,1
+57,control,10,6,Facebook,Thursday,known brand,0
+58,control,15,6,Facebook,Friday,known brand,1
+59,exposed,22,6,Facebook,Wednesday,known brand,0
+60,exposed,14,6,Facebook,Saturday,generic,0
+61,control,13,6,Facebook,Thursday,known brand,0
+62,exposed,20,6,Facebook,Thursday,known brand,0
+63,control,14,6,Facebook,Wednesday,known brand,0
+64,control,10,6,Facebook,Thursday,known brand,1
+65,control,15,6,Facebook,Friday,generic,1
+66,exposed,10,6,Facebook,Monday,known brand,1
+67,control,15,6,Facebook,Friday,generic,0
+68,control,8,6,Facebook,Saturday,known brand,1
+69,control,15,6,Facebook,Saturday,known brand,1
+70,control,15,6,Facebook,Friday,known brand,1
+71,control,18,6,Facebook,Sunday,known brand,1
+72,control,18,6,Facebook,Wednesday,known brand,0
+73,control,0,6,Facebook,Saturday,known brand,1
+74,control,16,6,Facebook,Thursday,known brand,0
+75,exposed,6,6,Facebook,Saturday,generic,1
+76,control,20,6,Facebook,Wednesday,generic,0
+77,control,17,6,Facebook,Friday,generic,1
+78,control,13,6,Facebook,Wednesday,known brand,0
+79,control,15,6,Facebook,Friday,known brand,0
+80,control,14,6,Facebook,Sunday,generic,1
+81,control,12,6,Facebook,Saturday,known brand,0
+82,exposed,21,6,Facebook,Wednesday,known brand,0
+83,control,1,6,Facebook,Monday,generic,0
+84,exposed,22,6,Facebook,Wednesday,known brand,0
+85,exposed,10,6,Facebook,Saturday,known brand,1
+86,exposed,14,6,Facebook,Friday,generic,1
+87,control,6,6,Facebook,Saturday,known brand,1
+88,control,0,6,Facebook,Friday,known brand,0
+89,control,15,6,Facebook,Friday,known brand,1
+90,control,15,6,Facebook,Friday,known brand,1
+91,control,12,6,Facebook,Thursday,known brand,1
+92,control,7,6,Facebook,Sunday,known brand,1
+93,control,15,6,Facebook,Friday,known brand,0
+94,exposed,21,6,Facebook,Tuesday,known brand,1
+95,control,15,6,Facebook,Friday,generic,0
+96,control,22,6,Facebook,Saturday,known brand,1
+97,control,15,6,Facebook,Friday,known brand,0
+98,control,15,6,Facebook,Friday,known brand,0
+99,exposed,20,6,Facebook,Thursday,generic,0
+100,exposed,4,6,Facebook,Friday,generic,0
+101,exposed,11,6,Facebook,Friday,generic,1
+102,control,5,6,Facebook,Friday,known brand,1
+103,exposed,0,6,Facebook,Friday,known brand,1
+104,exposed,12,6,Facebook,Saturday,known brand,0
+105,exposed,9,6,Facebook,Tuesday,generic,0
+106,control,16,6,Facebook,Sunday,known brand,1
+107,control,22,6,Facebook,Wednesday,known brand,0
+108,control,0,6,Facebook,Monday,known brand,1
+109,control,15,6,Facebook,Friday,known brand,0
+110,exposed,12,6,Facebook,Sunday,known brand,1
+111,control,9,6,Facebook,Saturday,known brand,0
+112,control,0,6,Facebook,Friday,known brand,0
+113,control,11,6,Facebook,Wednesday,known brand,0
+114,exposed,2,6,Facebook,Saturday,generic,1
+115,control,10,6,Facebook,Saturday,generic,0
+116,control,15,6,Facebook,Friday,known brand,1
+117,exposed,9,6,Facebook,Friday,generic,1
+118,control,1,6,Facebook,Friday,generic,1
+119,exposed,6,6,Facebook,Friday,generic,0
+120,control,15,6,Facebook,Friday,known brand,0
+121,control,23,6,Facebook,Wednesday,generic,1
+122,control,6,6,Facebook,Friday,known brand,0
+123,exposed,7,6,Facebook,Monday,known brand,1
+124,exposed,15,6,Facebook,Wednesday,generic,0
+125,control,15,6,Facebook,Friday,known brand,0
+126,control,15,6,Facebook,Friday,known brand,0
+127,control,15,6,Facebook,Saturday,known brand,0
+128,exposed,13,6,Facebook,Tuesday,known brand,1
+129,control,15,6,Facebook,Friday,known brand,0
+130,control,12,6,Facebook,Saturday,generic,0
+131,control,20,6,Facebook,Thursday,known brand,0
+132,control,20,6,Facebook,Saturday,generic,0
+133,exposed,7,6,Facebook,Wednesday,known brand,1
+134,control,9,6,Facebook,Thursday,generic,1
+135,exposed,18,6,Facebook,Wednesday,generic,0
+136,control,11,6,Facebook,Saturday,known brand,1
+137,control,14,6,Facebook,Thursday,known brand,0
+138,control,9,6,Facebook,Tuesday,known brand,1
+139,control,14,6,Facebook,Friday,generic,0
+140,control,15,6,Facebook,Friday,known brand,1
+141,control,15,6,Facebook,Friday,generic,1
+142,exposed,3,6,Facebook,Thursday,known brand,0
+143,control,15,6,Facebook,Friday,generic,1
+144,control,15,6,Facebook,Wednesday,generic,1
+145,exposed,5,6,Facebook,Monday,generic,0
+146,control,20,6,Facebook,Thursday,generic,0
+147,exposed,13,6,Facebook,Saturday,generic,1
+148,control,15,6,Facebook,Friday,known brand,1
+149,exposed,9,6,Facebook,Friday,generic,0
+150,control,15,6,Facebook,Friday,known brand,1
+151,control,15,6,Facebook,Friday,generic,0
+152,control,2,6,Facebook,Saturday,known brand,0
+153,control,8,6,Facebook,Thursday,generic,0
+154,control,10,6,Facebook,Friday,known brand,1
+155,exposed,17,6,Facebook,Wednesday,known brand,0

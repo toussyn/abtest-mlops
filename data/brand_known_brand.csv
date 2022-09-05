@@ -1,0 +1,449 @@
+,experiment,hour,platform_os,browser,day_of_week,brand,response
+3,control,4,6,Facebook,Wednesday,known brand,1
+11,exposed,13,6,Facebook,Thursday,known brand,1
+12,exposed,20,6,Chrome Mobile WebView,Thursday,known brand,0
+15,control,2,6,Chrome Mobile WebView,Monday,known brand,0
+17,control,15,6,Samsung Internet,Friday,known brand,0
+19,control,20,6,Facebook,Thursday,known brand,1
+20,exposed,11,6,Chrome Mobile WebView,Saturday,known brand,1
+25,control,15,6,Facebook,Friday,known brand,0
+30,exposed,20,6,Samsung Internet,Thursday,known brand,0
+37,exposed,6,6,Facebook,Sunday,known brand,0
+38,exposed,3,6,Samsung Internet,Tuesday,known brand,0
+46,control,10,6,Facebook,Sunday,known brand,1
+47,exposed,5,6,Chrome Mobile WebView,Saturday,known brand,0
+51,control,8,6,Facebook,Monday,known brand,0
+52,control,15,6,Chrome Mobile WebView,Friday,known brand,1
+53,exposed,21,6,Chrome Mobile WebView,Wednesday,known brand,1
+54,control,15,6,Chrome Mobile,Friday,known brand,1
+56,exposed,0,6,Chrome Mobile WebView,Saturday,known brand,1
+59,exposed,2,6,Facebook,Friday,known brand,0
+60,control,15,6,Chrome Mobile WebView,Friday,known brand,1
+65,exposed,0,6,Samsung Internet,Thursday,known brand,0
+69,control,15,6,Samsung Internet,Friday,known brand,0
+70,exposed,6,6,Samsung Internet,Thursday,known brand,1
+72,control,15,6,Samsung Internet,Friday,known brand,1
+79,control,21,6,Facebook,Saturday,known brand,0
+80,control,22,6,Facebook,Wednesday,known brand,1
+83,control,13,6,Samsung Internet,Friday,known brand,1
+84,exposed,8,6,Chrome Mobile WebView,Friday,known brand,1
+85,control,2,6,Samsung Internet,Friday,known brand,0
+87,control,15,6,Facebook,Friday,known brand,1
+101,control,15,6,Chrome Mobile WebView,Friday,known brand,1
+103,control,15,6,Samsung Internet,Friday,known brand,0
+106,control,15,6,Facebook,Friday,known brand,1
+110,control,15,6,Samsung Internet,Friday,known brand,1
+112,exposed,5,6,Chrome Mobile WebView,Friday,known brand,0
+113,exposed,19,6,Chrome Mobile,Thursday,known brand,0
+114,exposed,16,6,Chrome Mobile WebView,Saturday,known brand,1
+117,control,19,6,Mobile Safari,Friday,known brand,0
+119,exposed,15,6,Chrome Mobile WebView,Friday,known brand,1
+121,control,15,6,Chrome Mobile WebView,Friday,known brand,0
+127,exposed,7,6,Facebook,Monday,known brand,0
+129,control,8,6,Chrome Mobile WebView,Monday,known brand,0
+132,control,3,6,Chrome Mobile,Monday,known brand,1
+136,control,15,6,Chrome,Friday,known brand,0
+137,control,15,6,Samsung Internet,Friday,known brand,0
+140,exposed,17,6,Chrome Mobile WebView,Wednesday,known brand,0
+142,exposed,7,6,Samsung Internet,Wednesday,known brand,0
+145,exposed,22,6,Chrome Mobile WebView,Sunday,known brand,0
+147,exposed,2,6,Chrome Mobile WebView,Thursday,known brand,1
+148,control,15,6,Facebook,Friday,known brand,1
+149,exposed,16,6,Chrome Mobile WebView,Saturday,known brand,0
+151,exposed,20,6,Chrome Mobile WebView,Tuesday,known brand,1
+154,exposed,14,6,Chrome Mobile WebView,Saturday,known brand,1
+155,exposed,8,6,Chrome Mobile WebView,Saturday,known brand,1
+159,exposed,8,5,Mobile Safari,Friday,known brand,0
+161,control,4,6,Facebook,Sunday,known brand,0
+162,control,15,6,Samsung Internet,Saturday,known brand,0
+163,exposed,1,6,Chrome Mobile WebView,Monday,known brand,1
+164,control,3,6,Samsung Internet,Saturday,known brand,1
+165,exposed,6,6,Chrome Mobile WebView,Friday,known brand,1
+166,control,15,6,Samsung Internet,Friday,known brand,1
+171,exposed,13,6,Samsung Internet,Sunday,known brand,1
+175,exposed,13,6,Chrome Mobile WebView,Thursday,known brand,1
+181,control,15,6,Chrome Mobile WebView,Friday,known brand,1
+183,exposed,2,6,Chrome Mobile,Friday,known brand,0
+184,exposed,18,6,Chrome Mobile WebView,Wednesday,known brand,0
+188,control,7,6,Facebook,Friday,known brand,0
+190,exposed,18,6,Chrome Mobile WebView,Wednesday,known brand,1
+191,control,15,6,Samsung Internet,Thursday,known brand,0
+192,exposed,2,6,Chrome Mobile WebView,Friday,known brand,0
+197,control,15,6,Samsung Internet,Friday,known brand,0
+198,exposed,11,6,Samsung Internet,Friday,known brand,1
+199,control,9,6,Chrome Mobile WebView,Friday,known brand,0
+203,control,15,6,Samsung Internet,Friday,known brand,0
+209,exposed,7,6,Facebook,Thursday,known brand,1
+211,control,15,6,Samsung Internet,Friday,known brand,1
+214,control,15,6,Facebook,Friday,known brand,0
+216,control,15,6,Facebook,Friday,known brand,0
+218,exposed,17,6,Chrome Mobile WebView,Wednesday,known brand,1
+220,control,15,6,Facebook,Friday,known brand,1
+221,control,15,6,Facebook,Friday,known brand,1
+222,exposed,8,6,Chrome Mobile WebView,Sunday,known brand,1
+235,exposed,19,6,Samsung Internet,Wednesday,known brand,1
+238,exposed,20,6,Chrome Mobile WebView,Tuesday,known brand,0
+240,exposed,15,6,Chrome Mobile WebView,Sunday,known brand,1
+245,exposed,1,6,Chrome Mobile,Friday,known brand,0
+246,control,8,6,Samsung Internet,Sunday,known brand,0
+248,control,3,6,Facebook,Tuesday,known brand,0
+250,exposed,16,6,Chrome Mobile WebView,Wednesday,known brand,0
+253,control,15,6,Facebook,Friday,known brand,1
+254,control,0,6,Chrome Mobile,Friday,known brand,1
+255,exposed,4,6,Chrome Mobile WebView,Thursday,known brand,0
+262,exposed,3,6,Samsung Internet,Monday,known brand,1
+264,exposed,1,6,Samsung Internet,Friday,known brand,0
+271,exposed,10,6,Samsung Internet,Friday,known brand,0
+273,exposed,8,6,Chrome Mobile WebView,Friday,known brand,1
+275,control,15,6,Facebook,Friday,known brand,1
+276,control,18,6,Chrome Mobile,Sunday,known brand,0
+277,control,20,6,Facebook,Saturday,known brand,1
+282,exposed,6,6,Samsung Internet,Thursday,known brand,1
+292,exposed,13,6,Facebook,Saturday,known brand,0
+295,exposed,18,6,Chrome Mobile WebView,Thursday,known brand,1
+297,exposed,20,6,Samsung Internet,Wednesday,known brand,0
+299,control,8,6,Facebook,Saturday,known brand,0
+305,control,8,6,Chrome Mobile WebView,Tuesday,known brand,1
+307,control,19,6,Facebook,Thursday,known brand,0
+308,control,6,6,Chrome Mobile WebView,Friday,known brand,1
+310,exposed,7,6,Samsung Internet,Monday,known brand,0
+312,exposed,16,6,Samsung Internet,Saturday,known brand,0
+313,control,21,6,Chrome Mobile,Wednesday,known brand,1
+315,control,12,6,Chrome Mobile,Thursday,known brand,0
+319,exposed,10,6,Samsung Internet,Friday,known brand,1
+326,exposed,17,6,Samsung Internet,Tuesday,known brand,0
+331,control,4,6,Chrome Mobile,Thursday,known brand,0
+332,exposed,10,6,Facebook,Thursday,known brand,0
+333,control,15,6,Facebook,Friday,known brand,1
+334,exposed,7,6,Chrome Mobile WebView,Sunday,known brand,0
+335,control,21,6,Facebook,Wednesday,known brand,1
+336,control,15,6,Samsung Internet,Friday,known brand,1
+338,exposed,10,6,Chrome Mobile WebView,Friday,known brand,0
+345,control,5,6,Samsung Internet,Friday,known brand,0
+348,control,15,6,Facebook,Friday,known brand,0
+351,exposed,12,6,Chrome,Sunday,known brand,1
+352,control,8,6,Samsung Internet,Friday,known brand,1
+353,control,1,6,Samsung Internet,Sunday,known brand,0
+357,control,7,6,Facebook,Thursday,known brand,0
+358,exposed,18,6,Facebook,Wednesday,known brand,0
+360,exposed,6,6,Samsung Internet,Friday,known brand,1
+365,control,15,6,Facebook,Friday,known brand,0
+366,exposed,14,6,Chrome Mobile WebView,Thursday,known brand,0
+369,exposed,10,6,Chrome Mobile WebView,Saturday,known brand,0
+370,control,16,6,Samsung Internet,Friday,known brand,1
+371,control,15,5,Mobile Safari,Friday,known brand,0
+372,control,15,5,Mobile Safari UI/WKWebView,Friday,known brand,0
+374,control,8,6,Facebook,Wednesday,known brand,1
+378,exposed,19,6,Samsung Internet,Tuesday,known brand,1
+380,exposed,16,6,Chrome Mobile WebView,Thursday,known brand,1
+384,exposed,9,6,Chrome Mobile WebView,Sunday,known brand,1
+385,exposed,0,6,Chrome Mobile WebView,Tuesday,known brand,0
+393,control,15,6,Samsung Internet,Friday,known brand,1
+404,control,15,6,Samsung Internet,Friday,known brand,1
+407,control,10,6,Facebook,Thursday,known brand,0
+408,exposed,8,6,Samsung Internet,Sunday,known brand,0
+415,exposed,21,6,Chrome Mobile,Wednesday,known brand,1
+416,exposed,15,6,Samsung Internet,Sunday,known brand,0
+419,exposed,7,6,Chrome Mobile WebView,Wednesday,known brand,0
+426,exposed,3,6,Samsung Internet,Tuesday,known brand,0
+427,control,15,6,Facebook,Friday,known brand,1
+429,control,16,6,Samsung Internet,Wednesday,known brand,1
+433,exposed,22,6,Facebook,Wednesday,known brand,0
+436,exposed,4,6,Chrome Mobile WebView,Friday,known brand,1
+437,exposed,8,6,Chrome Mobile,Sunday,known brand,0
+439,control,15,6,Samsung Internet,Friday,known brand,1
+441,exposed,11,6,Samsung Internet,Sunday,known brand,0
+451,exposed,12,6,Samsung Internet,Friday,known brand,0
+454,control,11,6,Samsung Internet,Saturday,known brand,1
+456,control,13,6,Facebook,Thursday,known brand,0
+460,exposed,20,6,Facebook,Thursday,known brand,0
+461,control,14,6,Facebook,Wednesday,known brand,0
+462,control,10,6,Facebook,Thursday,known brand,1
+467,control,3,5,Mobile Safari,Saturday,known brand,1
+468,control,15,6,Samsung Internet,Friday,known brand,1
+469,control,14,6,Samsung Internet,Wednesday,known brand,0
+470,exposed,10,6,Chrome Mobile WebView,Sunday,known brand,1
+472,control,14,6,Samsung Internet,Saturday,known brand,1
+483,exposed,4,6,Chrome Mobile WebView,Thursday,known brand,0
+485,exposed,9,6,Samsung Internet,Sunday,known brand,1
+488,control,7,6,Samsung Internet,Saturday,known brand,0
+490,exposed,10,6,Facebook,Monday,known brand,1
+495,control,8,6,Facebook,Saturday,known brand,1
+496,control,15,6,Samsung Internet,Friday,known brand,1
+497,control,15,6,Facebook,Saturday,known brand,1
+498,control,15,6,Facebook,Friday,known brand,1
+500,exposed,10,6,Chrome Mobile WebView,Friday,known brand,0
+502,exposed,5,6,Chrome Mobile WebView,Sunday,known brand,1
+503,exposed,11,6,Chrome Mobile,Saturday,known brand,1
+505,exposed,9,6,Chrome Mobile WebView,Friday,known brand,0
+508,control,18,6,Facebook,Sunday,known brand,1
+511,control,18,6,Facebook,Wednesday,known brand,0
+515,control,18,6,Samsung Internet,Thursday,known brand,1
+518,control,4,6,Chrome Mobile WebView,Sunday,known brand,1
+519,control,15,6,Samsung Internet,Friday,known brand,1
+524,control,0,6,Facebook,Saturday,known brand,1
+525,control,5,6,Chrome Mobile,Saturday,known brand,0
+528,control,16,6,Facebook,Thursday,known brand,0
+530,control,6,6,Samsung Internet,Monday,known brand,1
+537,control,13,6,Facebook,Wednesday,known brand,0
+538,control,15,6,Samsung Internet,Friday,known brand,0
+543,exposed,17,6,Chrome Mobile WebView,Thursday,known brand,1
+547,control,15,6,Facebook,Friday,known brand,0
+552,control,20,6,Samsung Internet,Saturday,known brand,0
+555,control,8,6,Samsung Internet,Monday,known brand,1
+557,control,12,6,Facebook,Saturday,known brand,0
+558,exposed,3,5,Mobile Safari,Sunday,known brand,1
+559,control,8,6,Chrome Mobile WebView,Friday,known brand,1
+560,exposed,15,6,Samsung Internet,Friday,known brand,0
+562,exposed,3,6,Chrome Mobile,Saturday,known brand,1
+567,exposed,7,6,Samsung Internet,Sunday,known brand,1
+569,exposed,19,6,Samsung Internet,Thursday,known brand,0
+570,exposed,21,6,Facebook,Wednesday,known brand,0
+573,control,15,6,Samsung Internet,Friday,known brand,0
+574,exposed,3,6,Chrome Mobile WebView,Friday,known brand,1
+575,exposed,21,6,Samsung Internet,Thursday,known brand,0
+577,exposed,13,6,Chrome Mobile WebView,Friday,known brand,1
+581,exposed,13,6,Samsung Internet,Sunday,known brand,0
+585,exposed,8,6,Chrome Mobile WebView,Monday,known brand,0
+589,exposed,13,6,Chrome Mobile WebView,Friday,known brand,0
+590,exposed,14,6,Samsung Internet,Tuesday,known brand,0
+592,exposed,5,6,Samsung Internet,Monday,known brand,0
+600,exposed,22,6,Facebook,Wednesday,known brand,0
+601,control,15,6,Samsung Internet,Friday,known brand,1
+602,control,15,6,Chrome Mobile WebView,Friday,known brand,0
+608,exposed,10,6,Facebook,Saturday,known brand,1
+614,control,18,6,Samsung Internet,Wednesday,known brand,1
+617,exposed,8,6,Chrome Mobile WebView,Friday,known brand,1
+621,exposed,5,5,Mobile Safari,Wednesday,known brand,0
+623,control,6,6,Facebook,Saturday,known brand,1
+625,control,0,6,Facebook,Friday,known brand,0
+628,exposed,7,6,Chrome Mobile,Friday,known brand,1
+629,control,16,6,Chrome Mobile WebView,Wednesday,known brand,1
+636,exposed,14,6,Samsung Internet,Friday,known brand,0
+638,exposed,18,6,Samsung Internet,Thursday,known brand,1
+640,control,15,6,Samsung Internet,Friday,known brand,0
+641,control,15,6,Chrome Mobile WebView,Friday,known brand,0
+646,control,15,6,Samsung Internet,Wednesday,known brand,0
+648,exposed,10,6,Chrome Mobile,Saturday,known brand,1
+652,exposed,9,6,Samsung Internet,Saturday,known brand,0
+653,exposed,9,6,Samsung Internet,Tuesday,known brand,0
+657,control,13,6,Chrome Mobile WebView,Thursday,known brand,0
+658,control,15,6,Facebook,Friday,known brand,1
+660,control,15,6,Samsung Internet,Friday,known brand,0
+674,control,15,6,Chrome Mobile WebView,Friday,known brand,0
+675,exposed,9,6,Chrome Mobile WebView,Friday,known brand,1
+678,exposed,12,6,Chrome Mobile WebView,Wednesday,known brand,0
+684,exposed,1,6,Chrome Mobile WebView,Friday,known brand,0
+691,control,14,5,Mobile Safari UI/WKWebView,Friday,known brand,0
+693,exposed,7,6,Chrome Mobile WebView,Wednesday,known brand,0
+695,control,15,6,Facebook,Friday,known brand,1
+696,control,12,6,Facebook,Thursday,known brand,1
+697,control,7,6,Facebook,Sunday,known brand,1
+699,control,12,5,Mobile Safari,Saturday,known brand,0
+701,exposed,17,6,Chrome Mobile WebView,Tuesday,known brand,0
+702,control,15,6,Facebook,Friday,known brand,0
+704,exposed,21,6,Facebook,Tuesday,known brand,1
+707,exposed,11,6,Chrome Mobile WebView,Saturday,known brand,1
+709,control,22,6,Facebook,Saturday,known brand,1
+710,control,1,6,Samsung Internet,Thursday,known brand,1
+711,exposed,16,6,Samsung Internet,Thursday,known brand,0
+712,exposed,14,6,Chrome Mobile WebView,Saturday,known brand,1
+713,exposed,18,6,Chrome Mobile,Wednesday,known brand,1
+720,control,8,6,Chrome Mobile WebView,Friday,known brand,1
+722,control,15,6,Facebook,Friday,known brand,0
+723,control,1,5,Mobile Safari,Monday,known brand,0
+730,exposed,17,6,Chrome Mobile WebView,Wednesday,known brand,1
+732,exposed,14,6,Samsung Internet,Tuesday,known brand,0
+734,control,15,6,Facebook,Friday,known brand,0
+743,exposed,14,6,Chrome Mobile WebView,Saturday,known brand,1
+745,exposed,19,6,Chrome Mobile WebView,Wednesday,known brand,1
+748,exposed,6,6,Chrome Mobile WebView,Tuesday,known brand,0
+754,control,11,6,Samsung Internet,Saturday,known brand,1
+756,control,15,6,Chrome Mobile WebView,Friday,known brand,0
+759,exposed,18,6,Chrome Mobile WebView,Wednesday,known brand,1
+761,control,15,6,Chrome Mobile WebView,Friday,known brand,0
+762,exposed,5,6,Chrome Mobile WebView,Friday,known brand,1
+763,exposed,18,6,Chrome Mobile WebView,Wednesday,known brand,1
+765,exposed,7,6,Chrome Mobile WebView,Thursday,known brand,1
+767,control,7,6,Chrome Mobile WebView,Monday,known brand,1
+769,exposed,1,6,Chrome Mobile WebView,Tuesday,known brand,0
+771,exposed,19,6,Samsung Internet,Saturday,known brand,0
+774,exposed,7,6,Chrome Mobile WebView,Sunday,known brand,0
+776,control,11,6,Samsung Internet,Thursday,known brand,0
+777,control,15,6,Samsung Internet,Friday,known brand,1
+780,control,5,6,Chrome Mobile WebView,Thursday,known brand,1
+784,control,15,6,Samsung Internet,Friday,known brand,1
+785,control,15,6,Samsung Internet,Friday,known brand,0
+788,control,9,5,Mobile Safari,Thursday,known brand,1
+789,control,15,6,Samsung Internet,Friday,known brand,0
+795,exposed,17,6,Chrome Mobile WebView,Thursday,known brand,1
+796,control,5,6,Facebook,Friday,known brand,1
+799,control,7,6,Chrome Mobile WebView,Friday,known brand,0
+800,exposed,22,6,Chrome Mobile WebView,Thursday,known brand,1
+804,exposed,0,6,Facebook,Friday,known brand,1
+805,control,15,5,Mobile Safari,Friday,known brand,0
+807,exposed,21,6,Chrome Mobile WebView,Wednesday,known brand,1
+808,exposed,14,6,Chrome Mobile WebView,Friday,known brand,0
+812,exposed,12,6,Facebook,Saturday,known brand,0
+813,control,9,6,Samsung Internet,Thursday,known brand,1
+814,control,19,6,Samsung Internet,Wednesday,known brand,1
+822,control,12,6,Chrome Mobile,Friday,known brand,1
+826,control,16,6,Facebook,Sunday,known brand,1
+828,exposed,5,6,Chrome Mobile WebView,Wednesday,known brand,0
+829,control,15,6,Samsung Internet,Friday,known brand,1
+835,exposed,3,6,Chrome Mobile WebView,Friday,known brand,0
+836,exposed,10,6,Chrome Mobile WebView,Monday,known brand,0
+838,exposed,7,6,Chrome Mobile WebView,Saturday,known brand,1
+839,exposed,6,6,Chrome Mobile WebView,Saturday,known brand,0
+840,control,15,6,Samsung Internet,Friday,known brand,0
+841,exposed,17,6,Samsung Internet,Thursday,known brand,0
+844,control,11,6,Samsung Internet,Thursday,known brand,1
+846,control,22,6,Facebook,Wednesday,known brand,0
+847,exposed,11,6,Chrome Mobile WebView,Friday,known brand,0
+857,control,0,6,Facebook,Monday,known brand,1
+858,control,15,6,Facebook,Friday,known brand,0
+860,control,15,6,Chrome Mobile,Friday,known brand,1
+861,control,8,6,Samsung Internet,Tuesday,known brand,0
+864,control,14,6,Chrome Mobile WebView,Wednesday,known brand,0
+868,exposed,12,6,Facebook,Sunday,known brand,1
+871,exposed,13,6,Chrome Mobile WebView,Thursday,known brand,1
+872,control,9,6,Facebook,Saturday,known brand,0
+874,exposed,2,6,Samsung Internet,Tuesday,known brand,0
+875,control,0,6,Facebook,Friday,known brand,0
+876,exposed,14,6,Chrome Mobile WebView,Wednesday,known brand,1
+878,exposed,18,6,Chrome Mobile WebView,Wednesday,known brand,0
+882,exposed,1,6,Chrome Mobile WebView,Tuesday,known brand,1
+883,exposed,12,6,Chrome Mobile WebView,Friday,known brand,0
+885,control,11,6,Chrome Mobile,Saturday,known brand,1
+887,exposed,15,6,Chrome Mobile WebView,Wednesday,known brand,0
+890,control,0,6,Chrome Mobile WebView,Thursday,known brand,1
+894,control,11,6,Facebook,Wednesday,known brand,0
+895,exposed,6,6,Chrome Mobile WebView,Saturday,known brand,0
+898,control,15,6,Samsung Internet,Friday,known brand,0
+900,exposed,0,6,Chrome Mobile WebView,Friday,known brand,1
+905,control,15,6,Chrome Mobile WebView,Friday,known brand,0
+909,exposed,17,6,Samsung Internet,Saturday,known brand,1
+912,control,15,6,Chrome Mobile WebView,Friday,known brand,0
+919,exposed,16,6,Chrome Mobile WebView,Wednesday,known brand,0
+922,exposed,6,6,Chrome Mobile WebView,Saturday,known brand,1
+923,control,9,6,Chrome Mobile WebView,Thursday,known brand,1
+927,exposed,12,6,Chrome Mobile WebView,Friday,known brand,1
+930,exposed,10,6,Chrome Mobile WebView,Friday,known brand,1
+932,exposed,8,6,Chrome Mobile WebView,Friday,known brand,1
+937,control,15,6,Facebook,Friday,known brand,1
+939,control,15,6,Samsung Internet,Friday,known brand,0
+943,control,15,5,Mobile Safari,Friday,known brand,0
+944,exposed,8,6,Samsung Internet,Saturday,known brand,1
+951,control,5,6,Samsung Internet,Thursday,known brand,1
+953,exposed,9,6,Chrome Mobile WebView,Thursday,known brand,0
+955,exposed,20,6,Samsung Internet,Wednesday,known brand,1
+957,control,12,6,Samsung Internet,Sunday,known brand,0
+958,control,10,6,Samsung Internet,Tuesday,known brand,1
+963,control,10,6,Chrome Mobile WebView,Sunday,known brand,0
+964,control,13,6,Samsung Internet,Saturday,known brand,0
+970,control,11,5,Mobile Safari,Saturday,known brand,0
+971,control,19,6,Samsung Internet,Thursday,known brand,1
+973,exposed,21,6,Chrome Mobile WebView,Thursday,known brand,1
+976,exposed,16,6,Chrome Mobile WebView,Wednesday,known brand,1
+979,exposed,5,6,Samsung Internet,Monday,known brand,0
+981,control,5,6,Chrome Mobile,Tuesday,known brand,0
+982,control,8,6,Samsung Internet,Sunday,known brand,0
+986,control,15,6,Samsung Internet,Friday,known brand,1
+987,exposed,9,6,Samsung Internet,Friday,known brand,0
+988,control,15,6,Facebook,Friday,known brand,0
+996,control,3,6,Samsung Internet,Wednesday,known brand,0
+997,control,6,6,Facebook,Friday,known brand,0
+1001,exposed,10,6,Chrome Mobile,Friday,known brand,0
+1002,exposed,0,6,Chrome Mobile,Thursday,known brand,1
+1005,exposed,7,6,Facebook,Monday,known brand,1
+1007,exposed,0,6,Samsung Internet,Thursday,known brand,1
+1010,control,15,6,Samsung Internet,Friday,known brand,1
+1015,exposed,20,6,Chrome Mobile WebView,Wednesday,known brand,1
+1022,control,9,6,Chrome Mobile WebView,Monday,known brand,0
+1023,control,15,6,Facebook,Friday,known brand,0
+1024,control,15,6,Samsung Internet,Friday,known brand,0
+1025,control,15,6,Chrome Mobile WebView,Friday,known brand,0
+1029,exposed,4,6,Chrome Mobile WebView,Monday,known brand,1
+1030,exposed,13,6,Chrome Mobile WebView,Friday,known brand,1
+1037,exposed,18,6,Samsung Internet,Sunday,known brand,1
+1038,control,1,6,Samsung Internet,Sunday,known brand,0
+1039,control,9,6,Samsung Internet,Saturday,known brand,0
+1040,control,15,6,Facebook,Friday,known brand,0
+1041,exposed,2,5,Mobile Safari,Thursday,known brand,0
+1043,exposed,21,6,Chrome Mobile WebView,Tuesday,known brand,1
+1044,exposed,1,6,Chrome Mobile WebView,Friday,known brand,1
+1046,exposed,14,6,Samsung Internet,Sunday,known brand,1
+1047,control,15,6,Samsung Internet,Friday,known brand,1
+1051,control,15,6,Facebook,Saturday,known brand,0
+1053,exposed,13,6,Facebook,Tuesday,known brand,1
+1054,exposed,11,6,Chrome Mobile WebView,Saturday,known brand,0
+1055,control,15,6,Facebook,Friday,known brand,0
+1060,control,20,6,Facebook,Thursday,known brand,0
+1063,exposed,4,6,Chrome Mobile WebView,Friday,known brand,0
+1067,exposed,17,6,Chrome Mobile WebView,Thursday,known brand,0
+1069,control,7,6,Chrome Mobile,Tuesday,known brand,0
+1073,control,5,5,Mobile Safari,Thursday,known brand,1
+1074,control,15,6,Samsung Internet,Friday,known brand,0
+1075,exposed,7,6,Chrome Mobile WebView,Friday,known brand,0
+1079,exposed,14,6,Chrome Mobile WebView,Sunday,known brand,1
+1080,exposed,10,6,Samsung Internet,Thursday,known brand,1
+1083,control,15,6,Samsung Internet,Friday,known brand,1
+1086,exposed,7,6,Facebook,Wednesday,known brand,1
+1087,exposed,15,6,Samsung Internet,Wednesday,known brand,0
+1088,exposed,13,6,Chrome Mobile WebView,Wednesday,known brand,0
+1090,control,19,6,Chrome Mobile WebView,Wednesday,known brand,0
+1092,control,15,6,Samsung Internet,Friday,known brand,0
+1097,control,11,6,Facebook,Saturday,known brand,1
+1100,exposed,8,6,Chrome Mobile WebView,Thursday,known brand,1
+1105,exposed,10,6,Chrome Mobile WebView,Friday,known brand,1
+1108,control,3,6,Chrome Mobile WebView,Friday,known brand,0
+1109,control,14,6,Facebook,Thursday,known brand,0
+1110,exposed,19,6,Chrome Mobile WebView,Sunday,known brand,1
+1111,exposed,5,6,Chrome Mobile WebView,Friday,known brand,1
+1114,exposed,7,6,Chrome Mobile WebView,Monday,known brand,0
+1115,exposed,12,6,Samsung Internet,Saturday,known brand,0
+1122,control,9,6,Facebook,Tuesday,known brand,1
+1124,exposed,8,6,Samsung Internet,Wednesday,known brand,0
+1128,exposed,8,6,Chrome Mobile WebView,Monday,known brand,1
+1131,exposed,9,6,Chrome Mobile WebView,Monday,known brand,0
+1132,control,1,6,Samsung Internet,Monday,known brand,0
+1133,exposed,3,6,Chrome Mobile WebView,Sunday,known brand,0
+1134,control,11,5,Chrome Mobile iOS,Saturday,known brand,1
+1136,control,15,6,Facebook,Friday,known brand,1
+1139,exposed,2,6,Chrome Mobile,Monday,known brand,1
+1140,control,15,6,Chrome Mobile WebView,Friday,known brand,1
+1142,exposed,4,6,Chrome Mobile WebView,Friday,known brand,1
+1149,control,7,6,Samsung Internet,Tuesday,known brand,0
+1154,exposed,8,6,Chrome Mobile WebView,Thursday,known brand,0
+1155,control,15,6,Samsung Internet,Friday,known brand,1
+1157,exposed,3,6,Facebook,Thursday,known brand,0
+1160,exposed,13,6,Chrome Mobile WebView,Tuesday,known brand,1
+1165,control,15,6,Facebook,Friday,known brand,1
+1167,control,2,6,Chrome Mobile WebView,Saturday,known brand,1
+1168,control,15,6,Samsung Internet,Friday,known brand,1
+1171,exposed,20,6,Chrome Mobile WebView,Tuesday,known brand,1
+1175,control,15,6,Samsung Internet,Friday,known brand,0
+1180,control,15,6,Samsung Internet,Friday,known brand,0
+1182,exposed,4,6,Samsung Internet,Wednesday,known brand,1
+1184,control,19,6,Samsung Internet,Sunday,known brand,0
+1186,exposed,17,6,Chrome Mobile WebView,Thursday,known brand,1
+1188,control,7,6,Samsung Internet,Saturday,known brand,0
+1189,exposed,8,6,Chrome Mobile WebView,Friday,known brand,1
+1190,control,15,6,Facebook,Friday,known brand,1
+1191,exposed,2,6,Samsung Internet,Friday,known brand,1
+1192,exposed,5,6,Samsung Internet,Friday,known brand,0
+1193,control,3,6,Samsung Internet,Monday,known brand,1
+1194,exposed,13,6,Chrome Mobile WebView,Sunday,known brand,1
+1195,control,4,6,Samsung Internet,Friday,known brand,1
+1197,control,15,6,Samsung Internet,Friday,known brand,1
+1201,control,9,6,Samsung Internet,Wednesday,known brand,0
+1203,control,17,5,Mobile Safari UI/WKWebView,Tuesday,known brand,0
+1207,exposed,10,6,Chrome Mobile WebView,Sunday,known brand,1
+1212,exposed,8,6,Chrome Mobile WebView,Friday,known brand,0
+1215,control,2,6,Facebook,Saturday,known brand,0
+1222,control,10,6,Facebook,Friday,known brand,1
+1224,control,15,6,Samsung Internet,Friday,known brand,1
+1225,control,12,6,Chrome Mobile WebView,Friday,known brand,0
+1230,control,15,6,Samsung Internet,Friday,known brand,1
+1232,exposed,17,6,Facebook,Wednesday,known brand,0
+1236,exposed,8,6,Samsung Internet,Friday,known brand,1
