@@ -43,7 +43,7 @@ This folder holds the data of the project
 ## Contact
 Zelalem Shiferaw - zelalemshiferaw71921@gmail.com
 
-Adijat Ojutomori - ojutomori@gmail.com
+Adijat Ojutomori - aojutomori@gmail.com
 
 MICHAEL GETACHEW - mikygetyos@gmail.com
 
